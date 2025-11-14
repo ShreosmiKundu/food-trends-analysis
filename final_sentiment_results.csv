@@ -1,0 +1,599 @@
+Author_Name,review_text,commentTimestamp,postCommentsCount,postLikesCount,user_id,product_id,review_text_cleaned,Sentiment_Score,Sentiment
+Kumkum Doshi,"Siddhant,, 's favorite",2024-05-06T16:55:10.000Z,2.0,41,"Kumkum Doshi - Siddhant,, 's favori",ARCHANAS-FOOD,"Siddhant,, 's favorite",0.4588,Positive
+Jaspinder Sandhu,Green chatni nhi banai ji,2024-05-06T14:39:27.000Z,2.0,41,Jaspinder Sandhu - Green chatni nhi ban,ARCHANAS-FOOD,Green chatni nhi banai ji,0.0,Neutral
+Sushila Devi,"Welcome to Singapore, Archana! â",2024-05-29T03:02:13.000Z,3.0,46,Sushila Devi - Welcome to Singapore,ARCHANAS-FOOD,"Welcome to Singapore, Archana! ",0.5093,Positive
+Jette Ackermann,Looks yummy,2024-10-08T13:12:15.000Z,3.0,46,Jette Ackermann - Looks yummy,ARCHANAS-FOOD,Looks yummy,0.5267,Positive
+Geeta Iyer,Awesome!,2024-05-06T11:05:14.000Z,6.0,29,Geeta Iyer - Awesome!,ARCHANAS-FOOD,Awesome!,0.6588,Positive
+Chandra Prakash Srivastava,=L=L=L=L=L=L=L=L>3>W>c>Õ<r<\>j<-<T,2024-05-21T11:46:51.000Z,6.0,29,Chandra Prakash Srivastava - ððððððððð,ARCHANAS-FOOD,=L=L=L=L=L=L=L=L>3>W>c><r<\>j<-<T,0.0,Neutral
+Naaz Kinghar,"Great, much needed!",2024-05-09T21:16:55.000Z,6.0,29,"Naaz Kinghar - Great, much needed!",ARCHANAS-FOOD,"Great, much needed!",0.6588,Positive
+Ravi Bhaskaran,Congrats! Looks great Archie,2024-05-06T18:50:27.000Z,6.0,29,Ravi Bhaskaran - Congrats! Looks grea,ARCHANAS-FOOD,Congrats! Looks great Archie,0.8313,Positive
+Kumkum Doshi,Congratulations ð,2024-05-06T15:08:08.000Z,6.0,29,Kumkum Doshi - Congratulations ð,ARCHANAS-FOOD,Congratulations ,0.5994,Positive
+Thiagarajan Chander,Keep rockiing archana,2024-05-05T11:01:34.000Z,2.0,13,Thiagarajan Chander - Keep rockiing archan,ARCHANAS-FOOD,Keep rockiing archana,0.0,Neutral
+Lakshmi Prakash Shirur,Yummmmmmz,2024-05-07T15:46:37.000Z,2.0,13,Lakshmi Prakash Shirur - Yummmmmmz,ARCHANAS-FOOD,Yummmmmmz,0.0,Neutral
+BakingReview,Yum!  That spread looks amazing and so colorful. Love the idea of Bajra roti for added nutrients!,2024-05-06T13:29:03.000Z,3.0,19,BakingReview - Yum!  That spread lo,ARCHANAS-FOOD,Yum!  That spread looks amazing and so colorful. Love the idea of Bajra roti for added nutrients!,0.8709,Positive
+Lakshmi Prakash Shirur,Yummy yummm,2024-05-16T11:53:38.000Z,3.0,19,Lakshmi Prakash Shirur - Yummy yummm,ARCHANAS-FOOD,Yummy yummm,0.5267,Positive
+M.s.sonicooking,https://youtu.be/v_2pjfpkVZc?si=r22-sReVuRxv0Zpe,2024-05-08T14:11:00.000Z,3.0,19,M.s.sonicooking - https://youtu.be/v_2,ARCHANAS-FOOD,https://youtu.be/v_2pjfpkVZc?si=r22-sReVuRxv0Zpe,0.0,Neutral
+Chandra Prakash Srivastava,=L=L=L=L=L=L=L=L=L=z>3,2024-05-30T15:50:40.000Z,2.0,41,Chandra Prakash Srivastava - ðððððð,ARCHANAS-FOOD,=L=L=L=L=L=L=L=L=L=z>3,0.0,Neutral
+BakingReview,"Loving your Sunday spread!   Jaipuri Aloo Pyaaz & Lachha Paratha sounds perfect, and the Rose Lassi looks refreshing.",2024-05-06T13:45:15.000Z,2.0,41,BakingReview - Loving your Sunday s,ARCHANAS-FOOD,"Loving your Sunday spread!   Jaipuri Aloo Pyaaz & Lachha Paratha sounds perfect, and the Rose Lassi looks refreshing.",0.8356,Positive
+Kate Wroblewski,"This was great, thank you!",2025-03-23T18:54:05.000Z,3.0,34,"Kate Wroblewski - This was great, than",ARCHANAS-FOOD,"This was great, thank you!",0.784,Positive
+Thiagarajan Chander,Lovely archana,2024-05-13T12:54:02.000Z,7.0,70,Thiagarajan Chander - Lovely archana,ARCHANAS-FOOD,Lovely archana,0.5859,Positive
+Jasbir Singh Waraich,Yummy yummy ðâ,2024-05-22T16:22:55.000Z,7.0,70,Jasbir Singh Waraich - Yummy yummy ðâ,ARCHANAS-FOOD,Yummy yummy 👌,0.7783,Positive
+Thiagarajan Chander,I like this menu archana,2024-05-21T09:24:48.000Z,7.0,70,Thiagarajan Chander - I like this menu arc,ARCHANAS-FOOD,I like this menu archana,0.3612,Positive
+Sitaramarao Ponnaluri,Where is Archanaâs kitchen physically located? Mouth wateri,2024-05-13T12:33:50.000Z,7.0,70,Sitaramarao Ponnaluri - Where is Archanaâs,ARCHANAS-FOOD,Where is Archana’s kitchen physically located? Mouth wateri,0.0,Neutral
+MD Mahtab,What is the budget? â¹10 â,2024-05-13T07:44:00.000Z,7.0,70,MD Mahtab - What is the budget? ,ARCHANAS-FOOD,What is the budget? ₹10 ,0.0,Neutral
+Sangeeta Mittal,Wow fantastic ð,2024-05-21T07:19:14.000Z,7.0,70,Sangeeta Mittal - Wow fantastic ð,ARCHANAS-FOOD,Wow fantastic ,0.8126,Positive
+Lakshmi Prakash Shirur,Super duper,2024-05-16T11:53:23.000Z,1.0,16,Lakshmi Prakash Shirur - Super duper,ARCHANAS-FOOD,Super duper,0.5994,Positive
+Santosh Jain,Please send,2024-05-18T09:11:55.000Z,13.0,52,Santosh Jain - Please send,ARCHANAS-FOOD,Please send,0.3182,Positive
+PK Chakradhar,https://www.facebook.com/groups/FoodMafia/?ref=share,2024-05-21T02:28:11.000Z,13.0,52,PK Chakradhar - https://www.facebook,ARCHANAS-FOOD,https://www.facebook.com/groups/FoodMafia/?ref=share,0.0,Neutral
+Sandhya Panchmia,Yummy yummy,2024-05-20T09:20:28.000Z,13.0,52,Sandhya Panchmia - Yummy yummy,ARCHANAS-FOOD,Yummy yummy,0.7783,Positive
+Heena Thavani,Recipe please,2024-05-20T04:40:58.000Z,13.0,52,Heena Thavani - Recipe please,ARCHANAS-FOOD,Recipe please,0.3182,Positive
+Nalina Ajit,Nice receipe please!!,2024-05-19T08:21:03.000Z,13.0,52,Nalina Ajit - Nice receipe please!,ARCHANAS-FOOD,Nice receipe please!!,0.6892,Positive
+Loveleen Sidhu,Yummy!! Recipe please,2024-05-19T02:58:31.000Z,13.0,52,Loveleen Sidhu - Yummy!! Recipe pleas,ARCHANAS-FOOD,Yummy!! Recipe please,0.7418,Positive
+Glynis Lobo,Receipe please,2024-05-18T02:49:18.000Z,13.0,52,Glynis Lobo - Receipe please,ARCHANAS-FOOD,Receipe please,0.3182,Positive
+Bhavna R Shah,=M<8,2024-05-18T00:42:34.000Z,13.0,52,Bhavna R Shah - ð,ARCHANAS-FOOD,=M<8,0.0,Neutral
+BakingReview,Slow-roasted moong dal halwa is a less common dessert that can be a showstopper at gatherings.,2024-05-17T13:49:36.000Z,13.0,52,BakingReview - Slow-roasted moong d,ARCHANAS-FOOD,Slow-roasted moong dal halwa is a less common dessert that can be a showstopper at gatherings.,0.0,Neutral
+Mitali Gupta,"Awesome
+ Congratulations",2024-05-14T03:45:42.000Z,3.0,20,"Mitali Gupta - Awesome
+ Congratulat",ARCHANAS-FOOD,"Awesome
+ Congratulations",0.8402,Positive
+Lakshmi Prakash Shirur,Very tempting,2024-05-26T11:16:50.000Z,3.0,20,Lakshmi Prakash Shirur - Very tempting,ARCHANAS-FOOD,Very tempting,0.0,Neutral
+Rajiv Pande,Kshitija Pande,2024-05-13T14:11:41.000Z,3.0,20,Rajiv Pande - Kshitija Pande,ARCHANAS-FOOD,Kshitija Pande,0.0,Neutral
+Ritika Mahajan,"If the camera is focused more towards the bowl and what's happening in there, it would be better",2024-05-17T16:54:56.000Z,4.0,30,Ritika Mahajan - If the camera is foc,ARCHANAS-FOOD,"If the camera is focused more towards the bowl and what's happening in there, it would be better",0.6705,Positive
+Thiagarajan Chander,Keep rocking archana,2024-05-03T17:11:17.000Z,4.0,30,Thiagarajan Chander - Keep rocking archana,ARCHANAS-FOOD,Keep rocking archana,0.0,Neutral
+Lakshmi Prakash Shirur,Superrrb,2024-05-07T15:46:06.000Z,4.0,30,Lakshmi Prakash Shirur - Superrrb,ARCHANAS-FOOD,Superrrb,0.0,Neutral
+Kumkum Doshi,Superb,2024-05-05T06:12:23.000Z,4.0,30,Kumkum Doshi - Superb,ARCHANAS-FOOD,Superb,0.6249,Positive
+Lakshmi Prakash Shirur,Fabulous,2024-05-16T11:52:44.000Z,3.0,17,Lakshmi Prakash Shirur - Fabulous,ARCHANAS-FOOD,Fabulous,0.5267,Positive
+Foodie Dutta,great,2024-07-18T20:03:30.000Z,1.0,13,Foodie Dutta - great,ARCHANAS-FOOD,great,0.6249,Positive
+Thiagarajan Chander,I tasted this dish in vadodara Archana,2024-05-07T08:12:46.000Z,2.0,13,Thiagarajan Chander - I tasted this dish i,ARCHANAS-FOOD,I tasted this dish in vadodara Archana,0.0,Neutral
+Lakshmi Prakash Shirur,Superrr,2024-05-16T11:52:59.000Z,2.0,13,Lakshmi Prakash Shirur - Superrr,ARCHANAS-FOOD,Superrr,0.0,Neutral
+Lakshmi Prakash Shirur,Yummyð,2024-07-24T10:55:52.000Z,2.0,27,Lakshmi Prakash Shirur - Yummyð,ARCHANAS-FOOD,Yummy,0.5267,Positive
+chamar3940,Hi love you,2024-07-25T18:33:18.000Z,2.0,31,chamar3940 - Hi love you,ARCHANAS-FOOD,Hi love you,0.6369,Positive
+BakingReview,nice,2024-05-10T14:02:18.000Z,61.0,212,BakingReview - nice,ARCHANAS-FOOD,nice,0.4215,Positive
+Rakhi Advani Gautham,Wow congratulations Archana! ð,2024-05-09T07:26:52.000Z,61.0,212,Rakhi Advani Gautham - Wow congratulations ,ARCHANAS-FOOD,Wow congratulations Archana! ,0.8398,Positive
+Jayesh Doshi,Congratulations !,2024-05-13T10:11:06.000Z,61.0,212,Jayesh Doshi - Congratulations !,ARCHANAS-FOOD,Congratulations !,0.636,Positive
+Neha Gopa Sheth,"Congratulations Archana ð
+You are a Rock star ",2024-05-13T07:40:58.000Z,61.0,212,Neha Gopa Sheth - Congratulations Arch,ARCHANAS-FOOD,"Congratulations Archana 👏
+You are a Rock star ",0.5994,Positive
+Mohandoss,Archana the recipe queen... congrats..ð,2024-05-10T15:42:47.000Z,61.0,212,Mohandoss - Archana the recipe q,ARCHANAS-FOOD,Archana the recipe queen... congrats..,0.0,Neutral
+Jeeva Anna George,"Congratulations,  Archana ð",2024-05-10T10:43:10.000Z,61.0,212,"Jeeva Anna George - Congratulations,  Ar",ARCHANAS-FOOD,"Congratulations,  Archana ",0.5994,Positive
+Premila Ramesh Manyam,Congratulations Madam,2024-05-10T07:11:57.000Z,61.0,212,Premila Ramesh Manyam - Congratulations Mada,ARCHANAS-FOOD,Congratulations Madam,0.5994,Positive
+Dhruv Desai,"Congratulations Archana,",2024-05-09T13:06:50.000Z,61.0,212,Dhruv Desai - Congratulations Arch,ARCHANAS-FOOD,"Congratulations Archana,",0.5994,Positive
+Vasantha Erraguntla,Congratulations Archana!,2024-05-09T12:31:31.000Z,61.0,212,Vasantha Erraguntla - Congratulations Arch,ARCHANAS-FOOD,Congratulations Archana!,0.636,Positive
+Thiagarajan Chander,So delicious archana,2024-07-23T15:39:01.000Z,3.0,27,Thiagarajan Chander - So delicious archana,ARCHANAS-FOOD,So delicious archana,0.6115,Positive
+Pramod Kumar Sharma,delicious,2024-07-17T07:12:15.000Z,3.0,27,Pramod Kumar Sharma - delicious,ARCHANAS-FOOD,delicious,0.5719,Positive
+Leena Subramanian,Yummy,2024-07-23T11:05:10.000Z,3.0,27,Leena Subramanian - Yummy,ARCHANAS-FOOD,Yummy,0.5267,Positive
+Elizabeth Blunt,"Archana, you often suggest Indian traditional food at lunchtime and western dishes in the evening. Is this how many people in India eat these days?",2024-06-14T12:59:13.000Z,2.0,25,"Elizabeth Blunt - Archana, you often s",ARCHANAS-FOOD,"Archana, you often suggest Indian traditional food at lunchtime and western dishes in the evening. Is this how many people in India eat these days?",0.0,Neutral
+Geeta Iyer,Excellent,2024-06-13T11:32:52.000Z,2.0,25,Geeta Iyer - Excellent,ARCHANAS-FOOD,Excellent,0.5719,Positive
+Pramod Kumar Sharma,love this recipe.,2024-06-22T08:27:58.000Z,1.0,26,Pramod Kumar Sharma - love this recipe.,ARCHANAS-FOOD,love this recipe.,0.6369,Positive
+Foodie Dutta,Wow,2024-07-18T20:02:08.000Z,3.0,11,Foodie Dutta - Wow,ARCHANAS-FOOD,Wow,0.5859,Positive
+Jyoti Gulati,Sure,2024-09-05T16:27:36.000Z,82.0,312,Jyoti Gulati - Sure,ARCHANAS-FOOD,Sure,0.3182,Positive
+Yamini Kohli,Bakingâ,2024-09-04T17:34:39.000Z,82.0,312,Yamini Kohli - Bakingâ,ARCHANAS-FOOD,Baking,0.0,Neutral
+Parul Shah,"Missed you 
+Enjoy with your son good luck 
+Waiting for new recipes",2024-09-09T17:42:34.000Z,82.0,312,"Parul Shah - Missed you 
+Enjoy wi",ARCHANAS-FOOD,"Missed you 
+Enjoy with your son good luck 
+Waiting for new recipes",0.7845,Positive
+Usha Rajagopal,Looking fabulous! Love the hairð,2024-09-08T17:52:29.000Z,82.0,312,Usha Rajagopal - Looking fabulous! Lo,ARCHANAS-FOOD,Looking fabulous! Love the hair,0.8356,Positive
+Pradeep Raajkumar,Lovely Dear,2024-09-07T03:26:52.000Z,82.0,312,Pradeep Raajkumar - Lovely Dear,ARCHANAS-FOOD,Lovely Dear,0.7506,Positive
+Hema Parikh,Yes baking & maxican,2024-09-06T17:55:56.000Z,82.0,312,Hema Parikh - Yes baking & maxican,ARCHANAS-FOOD,Yes baking & maxican,0.4019,Positive
+Nivedita Rajgarhia,Healthy food for youngsters,2024-09-06T02:14:18.000Z,82.0,312,Nivedita Rajgarhia - Healthy food for you,ARCHANAS-FOOD,Healthy food for youngsters,0.4019,Positive
+Rosy Kuldip,Chinese recipes,2024-09-05T21:08:49.000Z,82.0,312,Rosy Kuldip - Chinese recipes,ARCHANAS-FOOD,Chinese recipes,0.0,Neutral
+Bharti Gupta,This hairstyle rocks Archana,2024-09-05T12:29:18.000Z,82.0,312,Bharti Gupta - This hairstyle rocks,ARCHANAS-FOOD,This hairstyle rocks Archana,0.0,Neutral
+Neha Jain,Yes,2024-09-05T08:58:32.000Z,82.0,312,Neha Jain - Yes,ARCHANAS-FOOD,Yes,0.4019,Positive
+Rajalakshmi Shankarakumar,"Happy Vinayagar Chathurthi ð 
+All are favourit",2024-09-07T08:18:10.000Z,3.0,19,Rajalakshmi Shankarakumar - Happy Vinayagar Chat,ARCHANAS-FOOD,"Happy Vinayagar Chathurthi 🙏 
+All are favourit",0.5719,Positive
+Tanu Bandyopadhyay,"Subho   Ganesh   Chaturthi
+Everything  looks  sodelicious",2024-09-07T11:49:31.000Z,3.0,19,Tanu Bandyopadhyay - Subho   Ganesh   Cha,ARCHANAS-FOOD,"Subho   Ganesh   Chaturthi
+Everything  looks  sodelicious",0.0,Neutral
+Manjunath Manju,Happy ganesh chaturthi,2024-09-07T06:12:06.000Z,3.0,19,Manjunath Manju - Happy ganesh chaturt,ARCHANAS-FOOD,Happy ganesh chaturthi,0.5719,Positive
+Thiagarajan Chander,You looking so good archana,2024-05-04T14:01:40.000Z,1.0,12,Thiagarajan Chander - You looking so good ,ARCHANAS-FOOD,You looking so good archana,0.5777,Positive
+Lakshmi Prakash Shirur,Lovely,2024-07-24T10:56:32.000Z,1.0,17,Lakshmi Prakash Shirur - Lovely,ARCHANAS-FOOD,Lovely,0.5859,Positive
+Pramod Kumar Sharma,Highly nutritious dishes,2024-06-14T16:09:02.000Z,1.0,18,Pramod Kumar Sharma - Highly nutritious di,ARCHANAS-FOOD,Highly nutritious dishes,0.0,Neutral
+BakingReview,Looks delicious!   Never tried Akki Roti - what's your favorite chutney to pair it with?,2024-05-04T15:18:54.000Z,6.0,85,BakingReview - Looks delicious!   N,ARCHANAS-FOOD,Looks delicious!   Never tried Akki Roti - what's your favorite chutney to pair it with?,0.7901,Positive
+Shobhana Manjunath,Sumptuous one.. swiggy pls..,2024-05-04T03:35:45.000Z,6.0,85,Shobhana Manjunath - Sumptuous one.. swig,ARCHANAS-FOOD,Sumptuous one.. swiggy pls..,0.0,Neutral
+Manjunath Manju,Very nice,2024-05-03T06:14:39.000Z,6.0,85,Manjunath Manju - Very nice,ARCHANAS-FOOD,Very nice,0.4754,Positive
+Thiagarajan Chander,Archana super,2024-05-07T08:55:15.000Z,6.0,85,Thiagarajan Chander - Archana super,ARCHANAS-FOOD,Archana super,0.5994,Positive
+Pramod Kumar Sharma,delicious recipe.,2024-06-22T10:54:00.000Z,3.0,30,Pramod Kumar Sharma - delicious recipe.,ARCHANAS-FOOD,delicious recipe.,0.5719,Positive
+Jette Ackermann,>p,2024-09-04T16:14:12.000Z,3.0,30,Jette Ackermann - ð,ARCHANAS-FOOD,>p,0.0,Neutral
+Thiagarajan Chander,So color ful archana,2024-07-16T13:34:22.000Z,1.0,17,Thiagarajan Chander - So color ful archana,ARCHANAS-FOOD,So color ful archana,0.0,Neutral
+Tanu Bandyopadhyay,Menu   Is  so   Tempting.,2024-06-22T15:16:39.000Z,8.0,62,Tanu Bandyopadhyay - Menu   Is  so   Temp,ARCHANAS-FOOD,Menu   Is  so   Tempting.,0.0,Neutral
+Prabal Ranjan Paul,"Do you have any recipe with dry fish,please share",2024-06-22T11:48:34.000Z,8.0,62,Prabal Ranjan Paul - Do you have any reci,ARCHANAS-FOOD,"Do you have any recipe with dry fish,please share",0.296,Positive
+Shelly Johnson,They are amazing,2024-06-22T08:10:59.000Z,8.0,62,Shelly Johnson - They are amazing,ARCHANAS-FOOD,They are amazing,0.5859,Positive
+Anuradha Ramesh,Good afternoon Ma'am. Your recipes are totally amazing and awesome. I truly love them. You are an inspiration to me. Thanks a lot.,2024-06-22T07:37:35.000Z,8.0,62,Anuradha Ramesh - Good afternoon Ma'am,ARCHANAS-FOOD,Good afternoon Ma'am. Your recipes are totally amazing and awesome. I truly love them. You are an inspiration to me. Thanks a lot.,0.977,Positive
+The Tasty Room ,ddd,2024-06-23T06:16:26.000Z,8.0,62,The Tasty Room  - â¤ï¸,ARCHANAS-FOOD,ddd,0.0,Neutral
+Lakshmi Prakash Shirur,Superb dishes,2024-05-07T15:47:11.000Z,2.0,18,Lakshmi Prakash Shirur - Superb dishes,ARCHANAS-FOOD,Superb dishes,0.6249,Positive
+Sameer Mohammad,Aliya Shaik,2024-04-30T10:45:52.000Z,2.0,18,Sameer Mohammad - Aliya Shaik,ARCHANAS-FOOD,Aliya Shaik,0.0,Neutral
+Kavita Kripalani Bina Daswani,Love it,2024-06-14T11:33:21.000Z,1.0,26,Kavita Kripalani Bina Daswani - Love it,ARCHANAS-FOOD,Love it,0.6369,Positive
+Tanu Bandyopadhyay,Too   Good  .,2024-06-21T09:41:16.000Z,4.0,72,Tanu Bandyopadhyay - Too   Good  .,ARCHANAS-FOOD,Too   Good  .,0.4404,Positive
+ghar ka TripatiTali,Wow yummy recipe,2024-04-30T04:37:34.000Z,3.0,21,ghar ka TripatiTali - Wow yummy recipe,ARCHANAS-FOOD,Wow yummy recipe,0.802,Positive
+Vandana Vp,Recipe?,2024-04-30T18:46:26.000Z,3.0,21,Vandana Vp - Recipe?,ARCHANAS-FOOD,Recipe?,0.0,Neutral
+Thiagarajan Chander,Archana you rocking,2024-04-30T09:43:03.000Z,3.0,21,Thiagarajan Chander - Archana you rocking,ARCHANAS-FOOD,Archana you rocking,0.0,Neutral
+Pramod Kumar Sharma,delicious recipe thank you ð,2024-06-25T06:48:17.000Z,2.0,23,Pramod Kumar Sharma - delicious recipe tha,ARCHANAS-FOOD,delicious recipe thank you ,0.7351,Positive
+Thiagarajan Chander,"Well done archana, keep rocking",2024-07-02T11:00:10.000Z,2.0,23,"Thiagarajan Chander - Well done archana, k",ARCHANAS-FOOD,"Well done archana, keep rocking",0.2732,Positive
+Rajalakshmi Shankarakumar,Yummy and easy to make,2024-04-16T13:13:57.000Z,3.0,85,Rajalakshmi Shankarakumar - Yummy and easy to ma,ARCHANAS-FOOD,Yummy and easy to make,0.743,Positive
+Ragini Singh,Written recipe please,2024-04-16T19:52:31.000Z,3.0,85,Ragini Singh - Written recipe pleas,ARCHANAS-FOOD,Written recipe please,0.3182,Positive
+Ruki Char Parekh,We make it with channa atta/ besan!,2024-04-23T09:25:23.000Z,3.0,58,Ruki Char Parekh - We make it with chan,ARCHANAS-FOOD,We make it with channa atta/ besan!,0.0,Neutral
+Kamaraju Naidu,Very nice and quickly  showing keep it up,2024-04-23T07:11:24.000Z,3.0,58,Kamaraju Naidu - Very nice and quickl,ARCHANAS-FOOD,Very nice and quickly  showing keep it up,0.4754,Positive
+Parisudham,=M=M=M,2024-04-10T15:41:06.000Z,1.0,62,Parisudham - ðð,ARCHANAS-FOOD,=M=M=M,0.0,Neutral
+Shyamali Choudhury,I love south Indian receipe,2024-06-13T06:38:56.000Z,3.0,30,Shyamali Choudhury - I love south Indian ,ARCHANAS-FOOD,I love south Indian receipe,0.6369,Positive
+Jayant Joshi,"Mâam, I shall try Spinach Mashroom scrambled eggs first ðfollowed by millet paniyaram n then raw mango coconut chutney ",2024-06-13T03:07:49.000Z,3.0,30,"Jayant Joshi - Mâam, I shall try ",ARCHANAS-FOOD,"M’am, I shall try Spinach Mashroom scrambled eggs first 😃followed by millet paniyaram n then raw mango coconut chutney ",0.0,Neutral
+Thiagarajan Chander,"Super archana, keep rocking",2024-04-23T08:21:34.000Z,3.0,30,"Thiagarajan Chander - Super archana, keep ",ARCHANAS-FOOD,"Super archana, keep rocking",0.5994,Positive
+Aru Arumugam,Very Ã±ic,2024-04-17T02:23:06.000Z,3.0,30,Aru Arumugam - Very Ã±ic,ARCHANAS-FOOD,Very ñic,0.0,Neutral
+Jasbir Singh Waraich,Nice ðâ,2024-04-23T00:30:57.000Z,3.0,30,Jasbir Singh Waraich - Nice ðâ,ARCHANAS-FOOD,Nice 👌,0.4215,Positive
+DivyasWorld,Yummmy ðð,2024-04-10T14:05:54.000Z,1.0,20,DivyasWorld - Yummmy ðð,ARCHANAS-FOOD,Yummmy 😋😋,0.0,Neutral
+Kitchen Recepies,Lovelyâ,2024-03-31T17:34:50.000Z,1.0,91,Kitchen Recepies - Lovelyâ,ARCHANAS-FOOD,Lovely,0.5859,Positive
+Lakshmi Prakash Shirur,Wowie,2024-03-27T10:46:09.000Z,1.0,19,Lakshmi Prakash Shirur - Wowie,ARCHANAS-FOOD,Wowie,0.0,Neutral
+Thiagarajan Chander,Good archana,2024-04-12T09:55:40.000Z,1.0,59,Thiagarajan Chander - Good archana,ARCHANAS-FOOD,Good archana,0.4404,Positive
+Ben Bames,Khal community se judo aur cooking ke tips and tricks seekho!,2024-10-12T08:10:02.000Z,6.0,49,Ben Bames - Khal community se ju,ARCHANAS-FOOD,Khal community se judo aur cooking ke tips and tricks seekho!,-0.2003,Negative
+Bella Bobbi,"Your recipes deserve a global audience, Join khal.com and unlock a world of opportunities, rewards, and connection.",2024-04-18T02:47:18.000Z,6.0,49,Bella Bobbi - Your recipes deserve,ARCHANAS-FOOD,"Your recipes deserve a global audience, Join khal.com and unlock a world of opportunities, rewards, and connection.",0.7845,Positive
+Thiagarajan Chander,Wonderful archana,2024-03-23T07:55:54.000Z,6.0,49,Thiagarajan Chander - Wonderful archana,ARCHANAS-FOOD,Wonderful archana,0.5719,Positive
+Vandana Bhatia,Looking delicious,2024-03-28T03:23:49.000Z,2.0,31,Vandana Bhatia - Looking delicious,ARCHANAS-FOOD,Looking delicious,0.5719,Positive
+Lakshmi Prakash Shirur,Splendid,2024-03-27T10:45:38.000Z,2.0,31,Lakshmi Prakash Shirur - Splendid,ARCHANAS-FOOD,Splendid,0.5859,Positive
+Kumkum Doshi,Perfect,2024-04-03T10:33:28.000Z,2.0,18,Kumkum Doshi - Perfect,ARCHANAS-FOOD,Perfect,0.5719,Positive
+Radhika Sekar,A very well balanced meal.,2024-04-04T12:38:50.000Z,2.0,18,Radhika Sekar - A very well balanced,ARCHANAS-FOOD,A very well balanced meal.,0.3384,Positive
+Mom's Kitchen Shyamnagar - Food Home Delivery & Catering Services,=,,,,,,=,0.0,Neutral
+=,,,,,,,,0.0,Neutral
+=,,,,,,,,0.0,Neutral
+=,,,,,,,,0.0,Neutral
+,2024-03-21T05:57:35.000Z,1,21.0,Mom's Kitchen Shyamnagar - Food Home Delivery & Catering Services - ðð,ARCHANAS-FOOD,,2024-03-21T05:57:35.000Z,0.0,Neutral
+Pramod Kumar Sharma,love this recipe .My all time favorite.,2024-03-20T16:26:39.000Z,1.0,19,Pramod Kumar Sharma - love this recipe .My,ARCHANAS-FOOD,love this recipe .My all time favorite.,0.802,Positive
+Pramod Kumar Sharma,healthy food with lots of happiness .,2024-04-03T08:11:50.000Z,7.0,36,Pramod Kumar Sharma - healthy food with lo,ARCHANAS-FOOD,healthy food with lots of happiness .,0.743,Positive
+Jasbir Singh Waraich,Yummy yummy ð,2024-04-03T01:14:25.000Z,7.0,36,Jasbir Singh Waraich - Yummy yummy ð,ARCHANAS-FOOD,Yummy yummy ,0.7783,Positive
+Roshni Bhathena,"Yummy , looks so delicious",2024-04-02T18:01:40.000Z,7.0,36,"Roshni Bhathena - Yummy , looks so del",ARCHANAS-FOOD,"Yummy , looks so delicious",0.8122,Positive
+Aswini Panda,"_.M.?
+YUMMY",2024-03-27T01:53:09.000Z,7.0,36,Aswini Panda - à­à¬®à­à¬,ARCHANAS-FOOD,"_.M.?
+YUMMY",0.5267,Positive
+DivyasWorld,Soo yumð,2024-04-10T14:06:32.000Z,1.0,30,DivyasWorld - Soo yumð,ARCHANAS-FOOD,Soo yum😋,0.0,Neutral
+Jasbir Singh Waraich,Tasty very  tasty ð,2024-04-09T17:51:41.000Z,2.0,24,Jasbir Singh Waraich - Tasty very  tasty ð,ARCHANAS-FOOD,Tasty very  tasty 👌,0.0,Neutral
+Anilaben Dave,Yes.,2024-03-23T11:19:33.000Z,26.0,56,Anilaben Dave - Yes.,ARCHANAS-FOOD,Yes.,0.4019,Positive
+Renuka Sinha,Please share,2024-03-21T07:18:20.000Z,26.0,56,Renuka Sinha - Please share,ARCHANAS-FOOD,Please share,0.5423,Positive
+MTgirl,Mouthwatering,2025-01-25T11:25:36.000Z,6.0,118,MTgirl - Mouthwatering,ARCHANAS-FOOD,Mouthwatering,0.0,Neutral
+Arun Giri,New video updet,2025-01-14T01:02:30.000Z,6.0,118,Arun Giri - New video updet,ARCHANAS-FOOD,New video updet,0.0,Neutral
+Protimoy chakma,Superb ð,2025-04-17T00:15:18.000Z,6.0,118,Protimoy chakma - Superb ð,ARCHANAS-FOOD,Superb ,0.6249,Positive
+Rajalakshmi Shankarakumar,Thank you,2024-11-14T17:33:31.000Z,6.0,118,Rajalakshmi Shankarakumar - Thank you,ARCHANAS-FOOD,Thank you,0.3612,Positive
+Gulzar Singh,https://docs.google.com/forms/d/e/1FAIpQLSfp_yIXofXJx6bwLp3LdRtdEQ0Umi5vNL7I2hhFalMuXNPb-g/viewform,2025-06-01T06:08:35.000Z,6.0,118,Gulzar Singh - https://docs.google.,ARCHANAS-FOOD,https://docs.google.com/forms/d/e/1FAIpQLSfp_yIXofXJx6bwLp3LdRtdEQ0Umi5vNL7I2hhFalMuXNPb-g/viewform,0.0,Neutral
+Vanitha Premkumar,Badursha my fav Indian ð®ð³ sweet delicious ð and easy to make Thanks dear Arch,2025-05-24T19:25:51.000Z,2.0,21,Vanitha Premkumar - Badursha my fav Indi,ARCHANAS-FOOD,Badursha my fav Indian 🇮🇳 sweet delicious 😋 and easy to make Thanks dear Arch,0.9524,Positive
+Syeda Wafa Abbas Naqvi,https://youtube.com/@tastefix-k6?feature=shared,2024-11-10T05:33:44.000Z,2.0,21,Syeda Wafa Abbas Naqvi - https://youtube.com/,ARCHANAS-FOOD,https://youtube.com/@tastefix-k6?feature=shared,0.0,Neutral
+Kumkum Doshi,I love,2024-10-15T15:59:36.000Z,1.0,20,Kumkum Doshi - I love,ARCHANAS-FOOD,I love,0.6369,Positive
+Deepa Arun,I love eating the steamed dal by itself too and have to catch myself from devouring it all ð,2024-03-16T14:28:36.000Z,2.0,27,Deepa Arun - I love eating the st,ARCHANAS-FOOD,I love eating the steamed dal by itself too and have to catch myself from devouring it all ,0.6369,Positive
+Pramod Kumar Sharma,"love this recipe, looks delicious.",2024-10-16T13:37:14.000Z,2.0,28,"Pramod Kumar Sharma - love this recipe, lo",ARCHANAS-FOOD,"love this recipe, looks delicious.",0.836,Positive
+Kumkum Doshi,=L,2024-10-15T14:49:38.000Z,2.0,28,Kumkum Doshi - ð,ARCHANAS-FOOD,=L,-0.296,Negative
+Richa Singh,sweet and salty recipe,2024-10-15T13:47:56.000Z,3.0,18,Richa Singh - sweet and salty reci,ARCHANAS-FOOD,sweet and salty recipe,0.4588,Positive
+Kumkum Doshi,Something  newI,2024-10-23T16:24:42.000Z,1.0,30,Kumkum Doshi - Something  newI,ARCHANAS-FOOD,Something  newI,0.0,Neutral
+Wid Ya S,Recipe pls!,2025-09-04T12:43:58.000Z,5.0,41,Wid Ya S - Recipe pls!,ARCHANAS-FOOD,Recipe pls!,0.1511,Positive
+Joan Alvarez,Completely genuine and true Keep up the good work Mrs Deborah Robin,2024-11-07T08:06:09.000Z,5.0,41,Joan Alvarez - Completely genuine a,ARCHANAS-FOOD,Completely genuine and true Keep up the good work Mrs Deborah Robin,0.7152,Positive
+Pali Naran,yum,2025-02-27T01:16:36.000Z,5.0,41,Pali Naran - yum,ARCHANAS-FOOD,yum,0.0,Neutral
+Kumkum Doshi,Wow superb,2024-11-07T11:56:59.000Z,5.0,41,Kumkum Doshi - Wow superb,ARCHANAS-FOOD,Wow superb,0.836,Positive
+Kumkum Doshi,Pineapple chutney  nice combination,2024-10-18T07:43:18.000Z,4.0,37,Kumkum Doshi - Pineapple chutney  n,ARCHANAS-FOOD,Pineapple chutney  nice combination,0.4215,Positive
+Rimi Ssb,Amake sobai ektu saport korun please friends â¤ï¸,2024-10-20T19:46:30.000Z,4.0,37,Rimi Ssb - Amake sobai ektu sap,ARCHANAS-FOOD,Amake sobai ektu saport korun please friends ❤️,0.6597,Positive
+Monkia Singh,Khal par apni recipe share karo aur star bano!,2024-10-19T08:39:58.000Z,4.0,37,Monkia Singh - Khal par apni recipe,ARCHANAS-FOOD,Khal par apni recipe share karo aur star bano!,0.3595,Positive
+Aditi Rai,"Ma'am why did you stop selling home made pastas etc.?
+They were so healthy",2024-10-13T15:05:41.000Z,1.0,12,Aditi Rai - Ma'am why did you st,ARCHANAS-FOOD,"Ma'am why did you stop selling home made pastas etc.?
+They were so healthy",0.3163,Positive
+Thiagarajan Chander,"Now you are slowly coming to non veg dishes, keep rocking archana",2024-06-03T08:20:15.000Z,2.0,9,Thiagarajan Chander - Now you are slowly c,ARCHANAS-FOOD,"Now you are slowly coming to non veg dishes, keep rocking archana",0.0,Neutral
+Lakshmi Prakash Shirur,Delish,2024-06-11T10:14:00.000Z,2.0,9,Lakshmi Prakash Shirur - Delish,ARCHANAS-FOOD,Delish,0.0,Neutral
+Kumkum Doshi,Tasty,2024-09-20T12:18:43.000Z,1.0,38,Kumkum Doshi - Tasty,ARCHANAS-FOOD,Tasty,0.0,Neutral
+Maruyama Ayi,Ykai Mercado bhe kani akuang bet kaunon. Naa ani didto??,2024-10-07T04:01:11.000Z,14.0,72,Maruyama Ayi - Ykai Mercado bhe kan,ARCHANAS-FOOD,Ykai Mercado bhe kani akuang bet kaunon. Naa ani didto??,0.0,Neutral
+Archana Sarkar,Deliciousððððð,2024-07-31T10:33:04.000Z,14.0,72,Archana Sarkar - Deliciousððððð,ARCHANAS-FOOD,Delicious😋😋😋😋,0.0,Neutral
+Francesca Ganci,Troppo asciutti,2024-07-22T08:09:01.000Z,14.0,72,Francesca Ganci - Troppo asciutti,ARCHANAS-FOOD,Troppo asciutti,0.0,Neutral
+Jillian Patrick,Recipe plz,2024-07-15T11:00:04.000Z,14.0,72,Jillian Patrick - Recipe plz,ARCHANAS-FOOD,Recipe plz,0.0772,Positive
+Pramod Kumar Sharma,yummy recipe.,2024-06-13T13:36:47.000Z,14.0,72,Pramod Kumar Sharma - yummy recipe.,ARCHANAS-FOOD,yummy recipe.,0.5267,Positive
+Sadhana Kiran Barathan,What veggies did you used ?,2024-06-10T17:25:45.000Z,14.0,72,Sadhana Kiran Barathan - What veggies did you,ARCHANAS-FOOD,What veggies did you used ?,0.0,Neutral
+Chandra Prakash Srivastava,<\<\<\<\<\<\<\<\,2024-06-10T16:04:38.000Z,14.0,72,Chandra Prakash Srivastava - ðððð,ARCHANAS-FOOD,<\<\<\<\<\<\<\<\,0.0,Neutral
+Lata Natarajan,So yummy. Would like to have the recipe pls,2024-06-10T15:53:09.000Z,14.0,72,Lata Natarajan - So yummy. Would like,ARCHANAS-FOOD,So yummy. Would like to have the recipe pls,0.7755,Positive
+Kumkum Doshi,Nice Ribbon pakoda,2024-10-25T09:14:21.000Z,2.0,44,Kumkum Doshi - Nice Ribbon pakoda,ARCHANAS-FOOD,Nice Ribbon pakoda,0.4215,Positive
+Smita Desai,Mouthwatering recipe,2025-03-31T08:58:00.000Z,1.0,33,Smita Desai - Mouthwatering recipe,ARCHANAS-FOOD,Mouthwatering recipe,0.0,Neutral
+Radiant 3R Kitchen,Wow...,2024-09-22T15:37:22.000Z,5.0,34,Radiant 3R Kitchen - Wow...,ARCHANAS-FOOD,Wow...,0.0,Neutral
+Soumi Banerjee,Yummy ð,2024-09-23T09:44:48.000Z,5.0,34,Soumi Banerjee - Yummy ð,ARCHANAS-FOOD,Yummy ,0.5267,Positive
+Amith Pai,So delicious,2024-09-22T14:07:36.000Z,5.0,34,Amith Pai - So delicious,ARCHANAS-FOOD,So delicious,0.6115,Positive
+Kumkum Doshi,Our favourite,2024-10-11T03:06:27.000Z,4.0,23,Kumkum Doshi - Our favourite,ARCHANAS-FOOD,Our favourite,0.0,Neutral
+Ranojit Kar,Happy Durga puja,2024-10-10T13:41:34.000Z,4.0,23,Ranojit Kar - Happy Durga puja,ARCHANAS-FOOD,Happy Durga puja,0.5719,Positive
+BakingReview,I like most of the tomato recipes ...,2024-05-15T12:25:48.000Z,2.0,21,BakingReview - I like most of the t,ARCHANAS-FOOD,I like most of the tomato recipes ...,0.3612,Positive
+Lakshmi Prakash Shirur,Love mushrooms,2024-05-26T11:17:36.000Z,2.0,21,Lakshmi Prakash Shirur - Love mushrooms,ARCHANAS-FOOD,Love mushrooms,0.6369,Positive
+Esther D'Souza,please share your tiramasu recipe.,2024-06-12T16:41:59.000Z,2.0,11,Esther D'Souza - please share your ti,ARCHANAS-FOOD,please share your tiramasu recipe.,0.5423,Positive
+Harri Megan,The website link doesn't work,2025-06-06T07:38:27.000Z,2.0,11,Harri Megan - The website link doe,ARCHANAS-FOOD,The website link doesn't work,0.0,Neutral
+Kakali Ray,Hello how are you â,2024-09-18T05:27:33.000Z,5.0,33,Kakali Ray - Hello how are you â,ARCHANAS-FOOD,Hello how are you ,0.0,Neutral
+Kumkum Doshi,Nice  tasty,2024-09-18T01:30:56.000Z,5.0,33,Kumkum Doshi - Nice  tasty,ARCHANAS-FOOD,Nice  tasty,0.4215,Positive
+Pradeep Raajkumar,Ultimate versatile Carrot poriyal Dear Archu Archana's Kitchen,2024-09-17T15:42:44.000Z,5.0,33,Pradeep Raajkumar - Ultimate versatile C,ARCHANAS-FOOD,Ultimate versatile Carrot poriyal Dear Archu Archana's Kitchen,0.3818,Positive
+Kalyan Kumar V,O,2024-09-18T14:27:49.000Z,5.0,33,Kalyan Kumar V - O,ARCHANAS-FOOD,O,0.0,Neutral
+Soumya Shankar,Pls post the recipe,2024-03-15T05:08:52.000Z,16.0,30,Soumya Shankar - Pls post the recipe,ARCHANAS-FOOD,Pls post the recipe,0.0772,Positive
+Raina Tejwani,Yes pls,2024-03-15T03:30:13.000Z,16.0,30,Raina Tejwani - Yes pls,ARCHANAS-FOOD,Yes pls,0.4588,Positive
+Archana Doshi,Ravi Bhaskaran thank you ð,2024-05-07T05:45:28.000Z,6.0,29,Archana Doshi - Ravi Bhaskaran thank,ARCHANAS-FOOD,Ravi Bhaskaran thank you ,0.3612,Positive
+Ragini Singh,I donât use you tu,2024-09-20T07:31:06.000Z,2.0,25,Ragini Singh - I donât use you tu,ARCHANAS-FOOD,I don’t use you tu,0.0,Neutral
+Kumkum Doshi,",ð",2024-09-19T13:40:00.000Z,2.0,25,"Kumkum Doshi - ,ð",ARCHANAS-FOOD,",",0.0,Neutral
+Tanu Bandyopadhyay,Perfect.   Too   Good,2024-10-12T06:34:10.000Z,2.0,11,Tanu Bandyopadhyay - Perfect.   Too   Goo,ARCHANAS-FOOD,Perfect.   Too   Good,0.765,Positive
+BakingReview,110 recipes sounds amazing - can't wait to try the curries!,2024-05-10T14:09:20.000Z,2.0,48,BakingReview - 110 recipes sounds a,ARCHANAS-FOOD,110 recipes sounds amazing - can't wait to try the curries!,0.6239,Positive
+Thiagarajan Chander,"Your dish looks so beautiful,like you archana",2024-05-14T08:49:13.000Z,2.0,48,Thiagarajan Chander - Your dish looks so b,ARCHANAS-FOOD,"Your dish looks so beautiful,like you archana",0.0,Neutral
+Pradeep Raajkumar,#heavenly #archu,2024-09-17T13:50:14.000Z,2.0,12,Pradeep Raajkumar - #heavenly #archu,ARCHANAS-FOOD,#heavenly #archu,0.0,Neutral
+Kumkum Doshi,=L=M,2024-09-16T16:28:34.000Z,2.0,12,Kumkum Doshi - ð,ARCHANAS-FOOD,=L=M,0.0,Neutral
+Archana's Kitchen,"Here is the link to the recipe of Pita Bread
+
+https://www.archanaskitchen.com/how-to-make-homemade-pita-bread",2024-06-03T06:40:43.000Z,8.0,63,Archana's Kitchen - Here is the link to ,ARCHANAS-FOOD,"Here is the link to the recipe of Pita Bread
+
+https://www.archanaskitchen.com/how-to-make-homemade-pita-bread",-0.5267,Negative
+Aruna Vela,Thus looks really good. Please share recipe,2024-05-30T13:34:00.000Z,8.0,63,Aruna Vela - Thus looks really go,ARCHANAS-FOOD,Thus looks really good. Please share recipe,0.8039,Positive
+Sudha Narayan,Please share recipe,2024-06-01T07:40:13.000Z,8.0,63,Sudha Narayan - Please share recipe,ARCHANAS-FOOD,Please share recipe,0.5423,Positive
+Asha Kundra,It looks yummy,2024-05-30T17:05:37.000Z,8.0,63,Asha Kundra - It looks yummy,ARCHANAS-FOOD,It looks yummy,0.5267,Positive
+GÃ¼lden E. Karaku,So delcious....,2024-05-31T10:52:02.000Z,8.0,63,GÃ¼lden E. KarakuÅ - So delcious..,ARCHANAS-FOOD,So delcious....,0.0,Neutral
+Game&Gift offer,yum yum yum,2025-09-18T11:57:53.000Z,2.0,54,Game&Gift offer - yum yum yum,ARCHANAS-FOOD,yum yum yum,0.0,Neutral
+Pramod Kumar Sharma,all time favorite,2024-07-25T08:47:30.000Z,2.0,13,Pramod Kumar Sharma - all time favorite,ARCHANAS-FOOD,all time favorite,0.4588,Positive
+Pramod Kumar Sharma,love it â¤,2024-07-25T08:47:08.000Z,3.0,30,Pramod Kumar Sharma - love it â¤,ARCHANAS-FOOD,love it ❤,0.6369,Positive
+Kumkum Doshi,Very nice ð,2024-05-17T06:17:57.000Z,13.0,52,Kumkum Doshi - Very nice ð,ARCHANAS-FOOD,Very nice ,0.4754,Positive
+Archana Doshi,Dhruv Desai thank you ð,2024-05-09T16:17:49.000Z,61.0,212,Archana Doshi - Dhruv Desai thank yo,ARCHANAS-FOOD,Dhruv Desai thank you ,0.3612,Positive
+Archana's Kitchen,Yamini Kohli sure will plan them out ð,2024-09-05T01:00:08.000Z,82.0,312,Archana's Kitchen - Yamini Kohli sure wi,ARCHANAS-FOOD,Yamini Kohli sure will plan them out ,0.3182,Positive
+Archana Doshi,Usha Rajagopal thank you â,2024-09-09T05:42:26.000Z,82.0,312,Archana Doshi - Usha Rajagopal thank,ARCHANAS-FOOD,Usha Rajagopal thank you ,0.3612,Positive
+Neyaz Hussain,https://www.facebook.com/Neyazh8743?mibextid=ZbWKwL,2024-07-03T08:25:44.000Z,1.0,22,Neyaz Hussain - https://www.facebook,ARCHANAS-FOOD,https://www.facebook.com/Neyazh8743?mibextid=ZbWKwL,0.0,Neutral
+Sundari Perumal,Congratulations,2024-05-09T02:08:44.000Z,61.0,212,Sundari Perumal - Congratulations,ARCHANAS-FOOD,Congratulations,0.5994,Positive
+Rajalakshmi Shankarakumar,"Congratulations 
+You are awesome",2024-05-09T01:03:21.000Z,61.0,212,"Rajalakshmi Shankarakumar - Congratulations 
+You",ARCHANAS-FOOD,"Congratulations 
+You are awesome",0.8402,Positive
+Alpa Jain,Congratulations ð,2024-05-09T00:48:18.000Z,61.0,212,Alpa Jain - Congratulations ð,ARCHANAS-FOOD,Congratulations ,0.5994,Positive
+Leena Subramanian,Congratulations ð,2024-05-09T00:23:45.000Z,61.0,212,Leena Subramanian - Congratulations ð,ARCHANAS-FOOD,Congratulations 👍,0.5994,Positive
+Vasumathi Arvind,Congratulations ð. What is the title of your first book? Wish to buy both ,2024-05-08T21:07:18.000Z,61.0,212,Vasumathi Arvind - Congratulations ð.,ARCHANAS-FOOD,Congratulations 🎉. What is the title of your first book? Wish to buy both ,0.765,Positive
+Grishma Doshi,Congratulations ð,2024-05-08T20:05:52.000Z,61.0,212,Grishma Doshi - Congratulations ð,ARCHANAS-FOOD,Congratulations 🎉,0.5994,Positive
+Karthika Gopalakrishnan,Congratulations Archana! Great milestone!!,2024-05-08T17:14:01.000Z,61.0,212,Karthika Gopalakrishnan - Congratulations Arch,ARCHANAS-FOOD,Congratulations Archana! Great milestone!!,0.8713,Positive
+Rupal Avalani,Heartiest Congratulations Archna ð,2024-05-08T16:47:23.000Z,61.0,212,Rupal Avalani - Heartiest Congratula,ARCHANAS-FOOD,Heartiest Congratulations Archna 🎉,0.5994,Positive
+Jette Ackermann,Thats wonderful,2024-05-08T16:18:26.000Z,61.0,212,Jette Ackermann - Thats wonderful,ARCHANAS-FOOD,Thats wonderful,0.5719,Positive
+Vatsal Doshi,Many Congratulations ð,2024-05-08T16:03:20.000Z,61.0,212,Vatsal Doshi - Many Congratulations,ARCHANAS-FOOD,Many Congratulations ,0.5994,Positive
+Uma Shankar,You have to add a little bit of asafoetida,2024-09-11T15:18:29.000Z,7.0,40,Uma Shankar - You have to add a li,ARCHANAS-FOOD,You have to add a little bit of asafoetida,0.0,Neutral
+Aswathi M S,Archana.......subscribed......,2024-09-11T14:22:59.000Z,7.0,40,Aswathi M S - Archana.......subscr,ARCHANAS-FOOD,Archana.......subscribed......,0.0,Neutral
+Thiagarajan Chander,"Archana so nice, keep rocking",2024-03-23T16:24:05.000Z,2.0,21,"Thiagarajan Chander - Archana so nice, kee",ARCHANAS-FOOD,"Archana so nice, keep rocking",0.4754,Positive
+Nishi Kothari Ojha,Recipe plz .. looks so tempting,2024-05-06T04:02:22.000Z,9.0,62,Nishi Kothari Ojha - Recipe plz .. looks ,ARCHANAS-FOOD,Recipe plz .. looks so tempting,0.0772,Positive
+ghar ka TripatiTali,"So yummy , thank you so much",2024-05-05T13:31:51.000Z,9.0,62,"ghar ka TripatiTali - So yummy , thank you",ARCHANAS-FOOD,"So yummy , thank you so much",0.7559,Positive
+Yasmin Fathima,Yummy.mouth watering,2024-05-03T08:54:05.000Z,9.0,62,Yasmin Fathima - Yummy.mouth watering,ARCHANAS-FOOD,Yummy.mouth watering,0.0,Neutral
+Vidya Garag,"It's my favourite,I too feel want to eat this but I can't eat it because I am diebetic.We diebetic cannot eat anything if it all it's our favourite",2024-05-03T04:10:43.000Z,9.0,62,"Vidya Garag - It's my favourite,I ",ARCHANAS-FOOD,"It's my favourite,I too feel want to eat this but I can't eat it because I am diebetic.We diebetic cannot eat anything if it all it's our favourite",0.0387,Neutral
+Rose Philip,Yummmy,2024-05-04T10:07:04.000Z,9.0,62,Rose Philip - Yummmy,ARCHANAS-FOOD,Yummmy,0.0,Neutral
+Radhika Gupta,Same,2024-06-11T15:58:58.000Z,12.0,106,Radhika Gupta - Same,ARCHANAS-FOOD,Same,0.0,Neutral
+Sudhi Nair,Unable to join when i click on the link,2024-06-12T11:58:10.000Z,12.0,106,Sudhi Nair - Unable to join when ,ARCHANAS-FOOD,Unable to join when i click on the link,0.296,Positive
+Kruthika Prakash,"I love your meal plans, Archana. It's absolutely inspiring that you make such wide range of dishes!",2024-06-12T08:30:02.000Z,12.0,106,Kruthika Prakash - I love your meal pla,ARCHANAS-FOOD,"I love your meal plans, Archana. It's absolutely inspiring that you make such wide range of dishes!",0.8217,Positive
+Gnanaambigai Kannan,In Chennai?,2024-06-12T07:26:10.000Z,12.0,106,Gnanaambigai Kannan - In Chennai?,ARCHANAS-FOOD,In Chennai?,0.0,Neutral
+Archana Doshi,You also need to enable channels,2024-06-11T16:34:01.000Z,12.0,106,Archana Doshi - You also need to ena,ARCHANAS-FOOD,You also need to enable channels,0.0,Neutral
+Archana Doshi,You need to follow the Channel,2024-06-11T16:33:54.000Z,12.0,106,Archana Doshi - You need to follow t,ARCHANAS-FOOD,You need to follow the Channel,0.0,Neutral
+Brindha Vijayakumar,Not allowed to connect there,2024-06-11T15:59:22.000Z,12.0,106,Brindha Vijayakumar - Not allowed to conne,ARCHANAS-FOOD,Not allowed to connect there,0.0,Neutral
+Asma Fakhri,Am not able to connect on the group,2024-06-11T13:56:28.000Z,12.0,106,Asma Fakhri - Am not able to conne,ARCHANAS-FOOD,Am not able to connect on the group,0.0,Neutral
+Archana Doshi,https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O,2024-06-11T16:34:10.000Z,12.0,106,Archana Doshi - https://whatsapp.com,ARCHANAS-FOOD,https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O,0.0,Neutral
+Bundeli Cooking Chef,Mouth watering,2024-06-04T04:36:44.000Z,3.0,78,Bundeli Cooking Chef - Mouth watering,ARCHANAS-FOOD,Mouth watering,0.0,Neutral
+Aruna D Gulanikar,like,2024-06-03T17:09:07.000Z,3.0,78,Aruna D Gulanikar - like,ARCHANAS-FOOD,like,0.3612,Positive
+Archana Doshi,Anuradha Ramesh thank you ð,2024-06-22T10:00:43.000Z,8.0,62,Archana Doshi - Anuradha Ramesh than,ARCHANAS-FOOD,Anuradha Ramesh thank you ,0.3612,Positive
+Richa Singh,Augustin Joubert,2024-11-11T14:10:59.000Z,3.0,18,Richa Singh - Augustin Joubert,ARCHANAS-FOOD,Augustin Joubert,0.0,Neutral
+Archana Doshi,Shelly Johnson thank you ð,2024-06-22T10:00:52.000Z,8.0,62,Archana Doshi - Shelly Johnson thank,ARCHANAS-FOOD,Shelly Johnson thank you 🙏,0.3612,Positive
+Savitha Iyer,Is there an exclusive group for vegetarians?,2024-04-04T04:36:25.000Z,2.0,38,Savitha Iyer - Is there an exclusiv,ARCHANAS-FOOD,Is there an exclusive group for vegetarians?,0.128,Positive
+Lakshmeesha J. Inamdar,Awesomeð,2024-04-16T04:53:24.000Z,2.0,45,Lakshmeesha J. Inamdar - Awesomeð,ARCHANAS-FOOD,Awesome👍,0.0,Neutral
+Pramod Kumar Sharma,nice recipe. Yummy,2024-04-10T16:41:42.000Z,2.0,45,Pramod Kumar Sharma - nice recipe. Yummy,ARCHANAS-FOOD,nice recipe. Yummy,0.7351,Positive
+Akshey Nair,Yes!,2024-03-20T22:14:16.000Z,26.0,56,Akshey Nair - Yes!,ARCHANAS-FOOD,Yes!,0.4574,Positive
+Archana's Kitchen,Aruna Vela https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,2024-06-03T06:40:48.000Z,8.0,63,Archana's Kitchen - Aruna Vela https://w,ARCHANAS-FOOD,Aruna Vela https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,0.0,Neutral
+Archana's Kitchen,Deepa Arun ðð,2024-03-17T03:00:42.000Z,2.0,27,Archana's Kitchen - Deepa Arun ðð,ARCHANAS-FOOD,Deepa Arun 😍,0.0,Neutral
+Alex O Skender,"Hello I greatly recommend you Via our ongoing Invitation to join our Great Elite and become Rich and Famous.
+
+Bringing the poor, the needy, and the talented to the limelight of fame and riches. Get money, fame, power, and security. Get recognized in business or politics, musician, student, footballer, salary earner or retirement pensioner. Do you want to be rich whatever occupation you do and be protected spiritually and physically! All these you will achieve in a twinkle of an eye when you get initiated into the  Elite Brotherhood known as the ILLUMINATI. Once you are initiated into the Elite brotherhood you will have numerous benefits. Do you wanna join?  If YES!.  Then you can achieve your dreams by being a member of the great Elite empire, Once you are a  member all your dreams and heart desires can be fully accomplished.
+
+This organization; is the world oldest and largest fraternity. We are one Family under one father who is the Supreme Being. In Illuminati we believe that we were born in paradise and no member should struggle in this world. Hence all our new members are given Money Rewards once they join in order to upgrade their lifestyle.; interested viewers should get instant initiated to the Elite Brotherhood and get membership profit $1,500.000 USD to start a profitable business.
+
+Join us today and get a membership profit to start a profitable business and earn a $20,000 USD monthly reward for Inviting new customers to the Great Elite brotherhood. Please note, Kindly make sure all your responses are sent directly to this Email: alexoskender@gmail.com  Telegram:  @alexoskender For more information.",2024-07-09T12:25:27.000Z,14.0,72,Alex O Skender - Hello I greatly reco,ARCHANAS-FOOD,"Hello I greatly recommend you Via our ongoing Invitation to join our Great Elite and become Rich and Famous.
+
+Bringing the poor, the needy, and the talented to the limelight of fame and riches. Get money, fame, power, and security. Get recognized in business or politics, musician, student, footballer, salary earner or retirement pensioner. Do you want to be rich whatever occupation you do and be protected spiritually and physically! All these you will achieve in a twinkle of an eye when you get initiated into the  Elite Brotherhood known as the ILLUMINATI. Once you are initiated into the Elite brotherhood you will have numerous benefits. Do you wanna join?  If YES!.  Then you can achieve your dreams by being a member of the great Elite empire, Once you are a  member all your dreams and heart desires can be fully accomplished.
+
+This organization; is the world oldest and largest fraternity. We are one Family under one father who is the Supreme Being. In Illuminati we believe that we were born in paradise and no member should struggle in this world. Hence all our new members are given Money Rewards once they join in order to upgrade their lifestyle.; interested viewers should get instant initiated to the Elite Brotherhood and get membership profit $1,500.000 USD to start a profitable business.
+
+Join us today and get a membership profit to start a profitable business and earn a $20,000 USD monthly reward for Inviting new customers to the Great Elite brotherhood. Please note, Kindly make sure all your responses are sent directly to this Email: alexoskender@gmail.com  Telegram:  @alexoskender For more information.",0.998,Positive
+Chandra Prakash Srivastava,=L=L=L=L=L=L=L<9,2024-06-10T16:01:32.000Z,14.0,72,Chandra Prakash Srivastava - ðððð,ARCHANAS-FOOD,=L=L=L=L=L=L=L<9,0.0,Neutral
+Seetha Parthasarathy,What do you do with the buttermilk water?,2024-10-03T11:43:41.000Z,3.0,22,Seetha Parthasarathy - What do you do with ,ARCHANAS-FOOD,What do you do with the buttermilk water?,0.0,Neutral
+Kumkum Doshi,Something  new,2024-10-02T07:13:23.000Z,3.0,22,Kumkum Doshi - Something  new,ARCHANAS-FOOD,Something  new,0.0,Neutral
+Archana Doshi,Grishma Doshi thank you,2024-05-09T01:29:08.000Z,61.0,212,Archana Doshi - Grishma Doshi thank ,ARCHANAS-FOOD,Grishma Doshi thank you,0.3612,Positive
+Archana's Kitchen,Sudha Narayan https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,2024-06-03T06:40:54.000Z,8.0,63,Archana's Kitchen - Sudha Narayan https:,ARCHANAS-FOOD,Sudha Narayan https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,0.0,Neutral
+Archana Doshi,Kumkum Doshi yes â,2024-10-11T05:59:02.000Z,4.0,23,Archana Doshi - Kumkum Doshi yes â,ARCHANAS-FOOD,Kumkum Doshi yes ,0.4019,Positive
+Archana Doshi,Alpa Jain thank you ð,2024-05-09T01:29:14.000Z,61.0,212,Archana Doshi - Alpa Jain thank you ,ARCHANAS-FOOD,Alpa Jain thank you ,0.3612,Positive
+Lakshmi Prakash Shirur,Yummmm,2024-06-11T10:13:34.000Z,2.0,22,Lakshmi Prakash Shirur - Yummmm,ARCHANAS-FOOD,Yummmm,0.0,Neutral
+Rajalakshmi Shankarakumar,Yummy .. Thank you,2024-06-03T14:22:27.000Z,2.0,22,Rajalakshmi Shankarakumar - Yummy .. Thank you,ARCHANAS-FOOD,Yummy .. Thank you,0.7096,Positive
+Pervin Bhasin,Welcome back! I find everything useful. What I would find most valuable is healthy lunch box ideas for adults who are as picky as kids!,2025-04-21T12:06:52.000Z,41.0,200,Pervin Bhasin - Welcome back! I find,ARCHANAS-FOOD,Welcome back! I find everything useful. What I would find most valuable is healthy lunch box ideas for adults who are as picky as kids!,0.916,Positive
+Khorshed Bhote,Lovely to know youâre back. These times of self care resets energy and helps find us a way forward. Wishing you well. ,2025-04-21T16:36:14.000Z,41.0,200,Khorshed Bhote - Lovely to know youâ,ARCHANAS-FOOD,Lovely to know you’re back. These times of self care resets energy and helps find us a way forward. Wishing you well. ,0.9287,Positive
+Suparna Sinha,"Welcome back...such a wise sensible decision taking a break can be...we all need it.
+Love your recipes...needed them throughout my cooking journey, will continue to browse through all of them
+Some more healthy eating recipes are always welcome.",2025-04-22T03:02:37.000Z,41.0,200,Suparna Sinha - Welcome back...such ,ARCHANAS-FOOD,"Welcome back...such a wise sensible decision taking a break can be...we all need it.
+Love your recipes...needed them throughout my cooking journey, will continue to browse through all of them
+Some more healthy eating recipes are always welcome.",0.9459,Positive
+Ruchi Srivastava,"I am still a scared novice and would love a Basics series which explains simple things like how to boil a potato in a pressure cookerâ¦. Sometimes recipes assume we know many things which we may not! Many of us are spoiled by our help in India but itâs great to be independent and to experimented on oneâs own if one knows the basics 
+Apart from this I would like more of a Salad and v simple 15 min tiffin box series .. involving teens in cooking series â¦ all healthy and using local ingredients as far as ",2025-04-21T15:51:02.000Z,41.0,200,Ruchi Srivastava - I am still a scared ,ARCHANAS-FOOD,"I am still a scared novice and would love a Basics series which explains simple things like how to boil a potato in a pressure cooker…. Sometimes recipes assume we know many things which we may not! Many of us are spoiled by our help in India but it’s great to be independent and to experimented on one’s own if one knows the basics 
+Apart from this I would like more of a Salad and v simple 15 min tiffin box series .. involving teens in cooking series … all healthy and using local ingredients as far as ",0.9468,Positive
+Nirali Shah,"Always love you for what you are.Welcome back!!Hope you are in pink of health to lovely meals & your sweet speech to detail tips & tricks to simple cooking.
+Love to see all your recipes.Have tried many.Looking forward to  see simple recipes yet nutritious , free of any hazzels with kitchen helper as they are getting scares in our town.",2025-04-21T17:17:57.000Z,41.0,200,Nirali Shah - Always love you for ,ARCHANAS-FOOD,"Always love you for what you are.Welcome back!!Hope you are in pink of health to lovely meals & your sweet speech to detail tips & tricks to simple cooking.
+Love to see all your recipes.Have tried many.Looking forward to  see simple recipes yet nutritious , free of any hazzels with kitchen helper as they are getting scares in our town.",0.9617,Positive
+Lavina Jhangiani,"Welcome back Archana, comeback is a reminder that taking a pause can be a powerful way to recharge and refocus.Looking fwd to try some of your new recipes. â¥ï¸",2025-04-21T14:57:08.000Z,41.0,200,Lavina Jhangiani - Welcome back Archana,ARCHANAS-FOOD,"Welcome back Archana, comeback is a reminder that taking a pause can be a powerful way to recharge and refocus.Looking fwd to try some of your new recipes. ♥️",0.7003,Positive
+Sahana creation,Pase theko â,2025-04-22T15:52:34.000Z,41.0,200,Sahana creation - Pase theko â,ARCHANAS-FOOD,Pase theko ,0.0,Neutral
+Three Degrees East,Loved your daily Indian regional cooking.,2025-04-24T14:43:17.000Z,41.0,200,Three Degrees East - Loved your daily Ind,ARCHANAS-FOOD,Loved your daily Indian regional cooking.,0.5994,Positive
+Seema Singh,Your recipes have been a staple in my kitchen. Thanks for coming back and sharing your passion with us again! ð,2025-04-21T14:34:51.000Z,41.0,200,Seema Singh - Your recipes have be,ARCHANAS-FOOD,Your recipes have been a staple in my kitchen. Thanks for coming back and sharing your passion with us again! ,0.8398,Positive
+Kalpana Chandrasekaran,Welcome back.... Have used many of your recipes... Love the way u speak in your videos...,2025-04-21T14:32:18.000Z,41.0,200,Kalpana Chandrasekaran - Welcome back.... Hav,ARCHANAS-FOOD,Welcome back.... Have used many of your recipes... Love the way u speak in your videos...,0.802,Positive
+Fusion Foodology,Can this be air fried?,2024-03-20T17:41:07.000Z,2.0,33,Fusion Foodology - Can this be air frie,ARCHANAS-FOOD,Can this be air fried?,0.0,Neutral
+Archana Doshi,Vatsal Doshi thank you,2024-05-09T01:28:48.000Z,61.0,212,Archana Doshi - Vatsal Doshi thank y,ARCHANAS-FOOD,Vatsal Doshi thank you,0.3612,Positive
+Archana's Kitchen,Uma Shankar you can if you like. I prefer not to:),2024-09-13T05:58:40.000Z,7.0,40,Archana's Kitchen - Uma Shankar you can ,ARCHANAS-FOOD,Uma Shankar you can if you like. I prefer not to:),0.3612,Positive
+Archana Doshi,Rupal Avalani thank you,2024-05-09T01:28:53.000Z,61.0,212,Archana Doshi - Rupal Avalani thank ,ARCHANAS-FOOD,Rupal Avalani thank you,0.3612,Positive
+Archana Doshi,Karthika Gopalakrishnan thank you,2024-05-09T01:28:58.000Z,61.0,212,Archana Doshi - Karthika Gopalakrish,ARCHANAS-FOOD,Karthika Gopalakrishnan thank you,0.3612,Positive
+Md Firoz,Lovely recipe,2025-04-22T08:10:23.000Z,6.0,29,Md Firoz - Lovely recipe,ARCHANAS-FOOD,Lovely recipe,0.5859,Positive
+Mary Kunji,Happy to hv u bk. Missed ur recipe,2025-04-23T05:24:18.000Z,6.0,29,Mary Kunji - Happy to hv u bk. Mi,ARCHANAS-FOOD,Happy to hv u bk. Missed ur recipe,0.3612,Positive
+Kumkum Doshi,Everyone excite your recipes,2025-04-23T07:18:54.000Z,6.0,29,Kumkum Doshi - Everyone excite your,ARCHANAS-FOOD,Everyone excite your recipes,0.4767,Positive
+Md Firoz,"After long time, watch",2025-04-22T08:12:30.000Z,6.0,29,"Md Firoz - After long time, wat",ARCHANAS-FOOD,"After long time, watch",0.0,Neutral
+Archana's Kitchen,Aswathi M S thank you ð,2024-09-13T05:58:56.000Z,7.0,40,Archana's Kitchen - Aswathi M S thank yo,ARCHANAS-FOOD,Aswathi M S thank you ,0.3612,Positive
+Jasbir Singh Waraich,Very nice ð â,2024-10-29T17:01:06.000Z,11.0,64,Jasbir Singh Waraich - Very nice ð â,ARCHANAS-FOOD,Very nice 👌 ,0.4754,Positive
+Lynda Injety,Archana's Kitchen. Recipe please,2024-10-28T16:35:57.000Z,11.0,64,Lynda Injety - Archana's Kitchen. R,ARCHANAS-FOOD,Archana's Kitchen. Recipe please,0.3182,Positive
+Wareesha k daily vlog ,Yummy ððð¤¤ð¤¤ from Pakistan ðµð°ðµð° follow ,2024-10-25T16:56:00.000Z,11.0,64,Wareesha k daily vlog  - Yummy ððð¤¤ð¤¤ f,ARCHANAS-FOOD,Yummy 😋😋🤤🤤 from Pakistan 🇵🇰🇵🇰 follow ,0.5267,Positive
+Dale Pereira,Archana no more cookies mixes ??,2024-12-01T09:08:30.000Z,11.0,64,Dale Pereira - Archana no more cook,ARCHANAS-FOOD,Archana no more cookies mixes ??,-0.3736,Negative
+Ratan Kumar Gurnani,Hallo Archana ji nice to see you back nowâ¦. We were simply missing your magical smile and ever loving face.. God Bless you Alwa,2025-04-21T11:57:12.000Z,11.0,64,Ratan Kumar Gurnani - Hallo Archana ji nic,ARCHANAS-FOOD,Hallo Archana ji nice to see you back now…. We were simply missing your magical smile and ever loving face.. God Bless you Alwa,0.8979,Positive
+Archana's Kitchen,Asha Kundra https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,2024-06-03T06:40:51.000Z,8.0,63,Archana's Kitchen - Asha Kundra https://,ARCHANAS-FOOD,Asha Kundra https://www.archanaskitchen.com/how-to-make-homemade-pita-bread,0.0,Neutral
+Khorshed Bhote,"You look great! And love the jackfruit, brings back dear memories of the two big trees we had in our back garden, growing up. Lovingly nurtured by our Mother.",2025-04-21T16:37:21.000Z,41.0,200,Khorshed Bhote - You look great! And ,ARCHANAS-FOOD,"You look great! And love the jackfruit, brings back dear memories of the two big trees we had in our back garden, growing up. Lovingly nurtured by our Mother.",0.9638,Positive
+Barsha Shrestha Pradhan,I also made chicken biryani in a pressure cooker few days bk like a way u cooked and it was simple and tasty,2024-04-21T12:24:38.000Z,4.0,168,Barsha Shrestha Pradhan - I also made chicken ,ARCHANAS-FOOD,I also made chicken biryani in a pressure cooker few days bk like a way u cooked and it was simple and tasty,0.0772,Positive
+Archana Doshi,Asma Fakhri https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O,2024-06-11T16:33:43.000Z,12.0,106,Archana Doshi - Asma Fakhri https://,ARCHANAS-FOOD,Asma Fakhri https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O,0.0,Neutral
+Archana Doshi,"Brindha Vijayakumar try this link 
+
+https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O",2024-06-11T16:33:37.000Z,12.0,106,Archana Doshi - Brindha Vijayakumar ,ARCHANAS-FOOD,"Brindha Vijayakumar try this link 
+
+https://whatsapp.com/channel/0029VaPofadAe5VllysZ2T1O",0.0,Neutral
+Archana's Kitchen,Pervin Bhasin thank you,2025-04-22T07:23:49.000Z,41.0,200,Archana's Kitchen - Pervin Bhasin thank ,ARCHANAS-FOOD,Pervin Bhasin thank you,0.3612,Positive
+Kumkum Doshi,Good idea,2024-04-18T10:21:29.000Z,3.0,202,Kumkum Doshi - Good idea,ARCHANAS-FOOD,Good idea,0.4404,Positive
+Bernardine Sequeira Ali,Brilliant â,2024-04-18T01:30:47.000Z,3.0,202,Bernardine Sequeira Ali - Brilliant â,ARCHANAS-FOOD,Brilliant ❗,0.5859,Positive
+Rajalakshmi Sugumar,I need that.. can you share the link,2024-05-08T15:07:04.000Z,61.0,212,Rajalakshmi Sugumar - I need that.. can yo,ARCHANAS-FOOD,I need that.. can you share the link,0.296,Positive
+Nidhi Jacob,superb Archana. getting one copy,2024-05-08T14:58:30.000Z,61.0,212,Nidhi Jacob - superb Archana. gett,ARCHANAS-FOOD,superb Archana. getting one copy,0.6249,Positive
+Alka Buttan,Congratulations on ð,2024-05-08T14:53:03.000Z,61.0,212,Alka Buttan - Congratulations on ð,ARCHANAS-FOOD,Congratulations on 🎉,0.5994,Positive
+Jalpa Hemani,Wow... congratulations,2024-05-08T14:28:12.000Z,61.0,212,Jalpa Hemani - Wow... congratulatio,ARCHANAS-FOOD,Wow... congratulations,0.5994,Positive
+Narayan Chakraborty,Congratulations and best wishes! You are excellent as always. I appreciate your recipes. Keep it up.,2024-05-08T14:11:52.000Z,61.0,212,Narayan Chakraborty - Congratulations and ,ARCHANAS-FOOD,Congratulations and best wishes! You are excellent as always. I appreciate your recipes. Keep it up.,0.9468,Positive
+Saishree Ray,Love your house decor Mam . You should share a tour of your house soon .,2024-05-08T13:52:30.000Z,61.0,212,Saishree Ray - Love your house deco,ARCHANAS-FOOD,Love your house decor Mam . You should share a tour of your house soon .,0.7506,Positive
+Sahana Roy,Congratulations!,2024-05-08T13:41:21.000Z,61.0,212,Sahana Roy - Congratulations!,ARCHANAS-FOOD,Congratulations!,0.636,Positive
+Padma Uday Kumar,Congratulations Archana ðð,2024-05-08T13:36:14.000Z,61.0,212,Padma Uday Kumar - Congratulations Arch,ARCHANAS-FOOD,Congratulations Archana 🎊🎊,0.5994,Positive
+Sahana creation,Anek valo vasa rohilo,2025-04-22T15:52:30.000Z,41.0,200,Sahana creation - Anek valo vasa rohil,ARCHANAS-FOOD,Anek valo vasa rohilo,0.0,Neutral
+Girija Prabhakar,"Welcome back Ms Archana! Your festival specials , 30 minutes meal recipes are my favourite â",2025-04-21T11:01:25.000Z,41.0,200,Girija Prabhakar - Welcome back Ms Arch,ARCHANAS-FOOD,"Welcome back Ms Archana! Your festival specials , 30 minutes meal recipes are my favourite ",0.7574,Positive
+Swati Jog,"Happy to see you back. I have used your cookies, cakes mixes. They are a tad expensive but  wonderful. I suppose good things cost money.ð. Welcome bac",2025-04-21T10:54:25.000Z,41.0,200,Swati Jog - Happy to see you bac,ARCHANAS-FOOD,"Happy to see you back. I have used your cookies, cakes mixes. They are a tad expensive but  wonderful. I suppose good things cost money.😊. Welcome bac",0.9455,Positive
+Sahana creation,Khub sundor,2025-04-22T15:52:12.000Z,41.0,200,Sahana creation - Khub sundor,ARCHANAS-FOOD,Khub sundor,0.0,Neutral
+Kalpesh Gohil,Welcome back. Please bring back the archana's kitchen recipes app on Android. They are really helpful,2025-04-21T11:05:34.000Z,41.0,200,Kalpesh Gohil - Welcome back. Please,ARCHANAS-FOOD,Welcome back. Please bring back the archana's kitchen recipes app on Android. They are really helpful,0.8122,Positive
+Deepa Gupta,Welcome back dear . I really missed your videos. I always used to watch all your recipes.,2025-04-22T15:28:36.000Z,41.0,200,Deepa Gupta - Welcome back dear . ,ARCHANAS-FOOD,Welcome back dear . I really missed your videos. I always used to watch all your recipes.,0.4779,Positive
+Priya Sethu Poduval,Welcome back and thank you for sooooo much you have already shared Archana ð,2025-04-21T15:02:05.000Z,41.0,200,Priya Sethu Poduval - Welcome back and tha,ARCHANAS-FOOD,Welcome back and thank you for sooooo much you have already shared Archana ,0.7845,Positive
+Dale Pereira,Welcome back archana all your stuff was great including the premises hope all well with you ont he health front stay blessed,2025-04-22T01:23:27.000Z,41.0,200,Dale Pereira - Welcome back archana,ARCHANAS-FOOD,Welcome back archana all your stuff was great including the premises hope all well with you ont he health front stay blessed,0.9432,Positive
+Willy Michael,"Hi,Archana. 
+Missed your  amazing  videos.",2025-04-21T13:30:52.000Z,41.0,200,"Willy Michael - Hi,Archana. 
+Missed ",ARCHANAS-FOOD,"Hi,Archana. 
+Missed your  amazing  videos.",0.3818,Positive
+Preetha Menon,Have used lots of your recipes! Welcome back!!,2025-04-21T13:44:59.000Z,41.0,200,Preetha Menon - Have used lots of yo,ARCHANAS-FOOD,Have used lots of your recipes! Welcome back!!,0.5962,Positive
+Poonam Thacker,Yes ... looking forward to ..asap,2024-09-05T08:21:35.000Z,82.0,312,Poonam Thacker - Yes ... looking forw,ARCHANAS-FOOD,Yes ... looking forward to ..asap,0.4019,Positive
+Pavai Parameswaran,Best wishes to your son. Yes would love to join . Hopefully the Timâs should work out for ,2024-09-05T05:34:37.000Z,82.0,312,Pavai Parameswaran - Best wishes to your ,ARCHANAS-FOOD,Best wishes to your son. Yes would love to join . Hopefully the Tim’s should work out for ,0.9485,Positive
+Mary Kunji,Happy to have u back. I missed ur recipe,2024-09-05T04:19:29.000Z,82.0,312,Mary Kunji - Happy to have u back,ARCHANAS-FOOD,Happy to have u back. I missed ur recipe,0.3612,Positive
+Reena Khurana,=i,,,,,,=i,0.0,Neutral
+<s,2024-09-05T03:54:12.000Z,82,312.0,Reena Khurana - ð©â,ARCHANAS-FOOD,,2024-09-05T03:54:12.000Z,0.0,Neutral
+Lekha Shankar,I was wondering!!! What happened to Archana's post... Now understoodð.. All the best to your son... Waiting fir your recipi,2024-09-05T02:26:49.000Z,82.0,312,Lekha Shankar - I was wondering!!! W,ARCHANAS-FOOD,I was wondering!!! What happened to Archana's post... Now understood😊.. All the best to your son... Waiting fir your recipi,0.7249,Positive
+Pramod Kumar Sharma,we really missed you. wish your son a bright future.Looking forward for live cooking.,2024-09-05T02:00:07.000Z,82.0,312,Pramod Kumar Sharma - we really missed you,ARCHANAS-FOOD,we really missed you. wish your son a bright future.Looking forward for live cooking.,0.5221,Positive
+Tejal Mehta Daroowalla,"Welcome back Archana. Missed your delicious recipes 
+ð",2024-09-04T20:42:38.000Z,82.0,312,Tejal Mehta Daroowalla - Welcome back Archana,ARCHANAS-FOOD,"Welcome back Archana. Missed your delicious recipes 
+",0.6705,Positive
+Jayanthi Bhaskaran,So glad to hear you are getting a well deserved break after so many years! You look amazing with your new haircut!! Am sorry to have missed you when you were in the Bay Area! Hope to see you next timeð,2024-09-04T20:13:35.000Z,82.0,312,Jayanthi Bhaskaran - So glad to hear you ,ARCHANAS-FOOD,So glad to hear you are getting a well deserved break after so many years! You look amazing with your new haircut!! Am sorry to have missed you when you were in the Bay Area! Hope to see you next time,0.8948,Positive
+Archana's Kitchen,Bharti Gupta thank you,2024-09-05T19:38:04.000Z,82.0,312,Archana's Kitchen - Bharti Gupta thank y,ARCHANAS-FOOD,Bharti Gupta thank you,0.3612,Positive
+Archana Doshi,Narayan Chakraborty thank you ð,2024-05-08T14:35:22.000Z,61.0,212,Archana Doshi - Narayan Chakraborty ,ARCHANAS-FOOD,Narayan Chakraborty thank you ,0.3612,Positive
+Aneena V. Chacko,"Looks delicious ð I'd like the recipe, plea",2024-05-16T11:04:37.000Z,2.0,73,Aneena V. Chacko - Looks delicious ð ,ARCHANAS-FOOD,"Looks delicious 😋 I'd like the recipe, plea",0.7351,Positive
+Aneeta Kariappa,You donât have to pressure cook i,2024-05-16T10:03:27.000Z,2.0,73,Aneeta Kariappa - You donât have to ,ARCHANAS-FOOD,You don’t have to pressure cook i,-0.296,Negative
+Archana Doshi,Saishree Ray thank you â,2024-05-08T14:35:32.000Z,61.0,212,Archana Doshi - Saishree Ray thank y,ARCHANAS-FOOD,Saishree Ray thank you ,0.3612,Positive
+Archana's Kitchen,Pavai Parameswaran which times are you looking at,2024-09-05T19:38:00.000Z,82.0,312,Archana's Kitchen - Pavai Parameswaran w,ARCHANAS-FOOD,Pavai Parameswaran which times are you looking at,0.0,Neutral
+Archana Doshi,Jalpa Hemani thank you ð,2024-05-08T14:34:39.000Z,61.0,212,Archana Doshi - Jalpa Hemani thank y,ARCHANAS-FOOD,Jalpa Hemani thank you ,0.3612,Positive
+Archana's Kitchen,Kavitha Mohanlal â,2024-09-05T08:00:12.000Z,82.0,312,Archana's Kitchen - Kavitha Mohanlal â,ARCHANAS-FOOD,Kavitha Mohanlal ,0.0,Neutral
+Archana's Kitchen,Kavitha Mohanlal good to hear from you,2024-09-05T08:00:31.000Z,82.0,312,Archana's Kitchen - Kavitha Mohanlal goo,ARCHANAS-FOOD,Kavitha Mohanlal good to hear from you,0.4404,Positive
+Divya Gupta,Link plz,2024-05-08T13:25:43.000Z,61.0,212,Divya Gupta - Link plz,ARCHANAS-FOOD,Link plz,0.0772,Positive
+Arathi Kundu,Congratulations!!!,2024-05-08T12:30:56.000Z,61.0,212,Arathi Kundu - Congratulations!!!,ARCHANAS-FOOD,Congratulations!!!,0.6981,Positive
+Soumya Shankar,Congratulations Archana...arriving at what to put in the kids lunch/tiffin boxes is one of the most daunting exercises of motherhood,2024-05-08T12:11:20.000Z,61.0,212,Soumya Shankar - Congratulations Arch,ARCHANAS-FOOD,Congratulations Archana...arriving at what to put in the kids lunch/tiffin boxes is one of the most daunting exercises of motherhood,0.5994,Positive
+Monica Minhas,Congratulations Archana! Please share the link with me .,2024-05-08T12:07:38.000Z,61.0,212,Monica Minhas - Congratulations Arch,ARCHANAS-FOOD,Congratulations Archana! Please share the link with me .,0.8268,Positive
+Garima Sharma,Congratulations!ð,2024-05-08T12:03:26.000Z,61.0,212,Garima Sharma - Congratulations!ð,ARCHANAS-FOOD,Congratulations!💐,0.0,Neutral
+Srividya Murali,Hearty Congratulationsð,2024-05-08T12:03:05.000Z,61.0,212,Srividya Murali - Hearty Congratulatio,ARCHANAS-FOOD,Hearty Congratulations💐,0.0,Neutral
+Archana Doshi,Here is the link - https://amzn.to/4bmbTIL,2024-05-08T14:24:30.000Z,61.0,212,Archana Doshi - Here is the link - h,ARCHANAS-FOOD,Here is the link - https://amzn.to/4bmbTIL,0.0,Neutral
+Archana Doshi,Nidhi Jacob â,2024-05-09T01:28:42.000Z,61.0,212,Archana Doshi - Nidhi Jacob â,ARCHANAS-FOOD,Nidhi Jacob ,0.0,Neutral
+Archana Doshi,Sahana Roy thank you ð,2024-05-08T14:35:55.000Z,61.0,212,Archana Doshi - Sahana Roy thank you,ARCHANAS-FOOD,Sahana Roy thank you ,0.3612,Positive
+Archana's Kitchen,Pramod Kumar Sharma thank you ð,2024-09-05T07:59:21.000Z,82.0,312,Archana's Kitchen - Pramod Kumar Sharma ,ARCHANAS-FOOD,Pramod Kumar Sharma thank you ,0.3612,Positive
+Archana's Kitchen,Sarita Bhasin ð,2024-09-05T08:00:19.000Z,82.0,312,Archana's Kitchen - Sarita Bhasin ð,ARCHANAS-FOOD,Sarita Bhasin ,0.0,Neutral
+Archana's Kitchen,Lekha Shankar thank you . The past two years have been very busy too ð,2024-09-05T08:00:02.000Z,82.0,312,Archana's Kitchen - Lekha Shankar thank ,ARCHANAS-FOOD,Lekha Shankar thank you . The past two years have been very busy too ,0.3612,Positive
+Archana Doshi,Jayanthi Bhaskaran  thank you so much ð¥° yes missed meeting you this time. Next time will make it up aga,2024-09-05T00:57:26.000Z,82.0,312,Archana Doshi - Jayanthi Bhaskaran  ,ARCHANAS-FOOD,Jayanthi Bhaskaran  thank you so much 🥰 yes missed meeting you this time. Next time will make it up aga,0.4615,Positive
+Archana's Kitchen,Mary Kunji thank you ð,2024-09-05T07:59:27.000Z,82.0,312,Archana's Kitchen - Mary Kunji thank you,ARCHANAS-FOOD,Mary Kunji thank you ,0.3612,Positive
+Niraj Kataria,Did you go to the US Open?,2024-09-04T17:44:25.000Z,82.0,312,Niraj Kataria - Did you go to the US,ARCHANAS-FOOD,Did you go to the US Open?,0.0,Neutral
+Gordhan Koshiya,Very good and best wishes for your child . In wich city he is ?,2024-09-04T17:42:56.000Z,82.0,312,Gordhan Koshiya - Very good and best w,ARCHANAS-FOOD,Very good and best wishes for your child . In wich city he is ?,0.8503,Positive
+Georgina Garrett E Fernandes,You look lovely with your new haircut,2024-09-04T17:35:06.000Z,82.0,312,Georgina Garrett E Fernandes - You look lovely with,ARCHANAS-FOOD,You look lovely with your new haircut,0.5859,Positive
+Tanuja Basavaraj,Best wishes to your son. Dropped off my oldest to college this fall as well,2024-09-04T17:32:13.000Z,82.0,312,Tanuja Basavaraj - Best wishes to your ,ARCHANAS-FOOD,Best wishes to your son. Dropped off my oldest to college this fall as well,0.7845,Positive
+Charu Jain,"Welcome back, I was wondering where have your been for so long....",2024-09-04T17:03:06.000Z,82.0,312,"Charu Jain - Welcome back, I was ",ARCHANAS-FOOD,"Welcome back, I was wondering where have your been for so long....",0.4588,Positive
+Ruchi Srivastava,"Where is he going to college and whatâs he studying?
+Yes would love love cook along classes if onli",2024-09-04T16:57:11.000Z,82.0,312,Ruchi Srivastava - Where is he going to,ARCHANAS-FOOD,"Where is he going to college and what’s he studying?
+Yes would love love cook along classes if onli",0.9022,Positive
+Suguna Muthuswamy,Waiting for your recipes mam.,2024-09-04T16:47:10.000Z,82.0,312,Suguna Muthuswamy - Waiting for your rec,ARCHANAS-FOOD,Waiting for your recipes mam.,0.0,Neutral
+Suguna Muthuswamy,Best wishes mam.,2024-09-04T16:46:48.000Z,82.0,312,Suguna Muthuswamy - Best wishes mam.,ARCHANAS-FOOD,Best wishes mam.,0.7003,Positive
+Renuka Ernst,"Absolutely love this post ð¥ what a wonderful idea and hope your son has an amazing time at College ð¥
+Answer: I would love to learn from you the basics of Indian cooking-itâs so important we remember how Indian cooking has developed and changed our",2024-09-04T16:44:02.000Z,82.0,312,Renuka Ernst - Absolutely love this,ARCHANAS-FOOD,"Absolutely love this post 🥂 what a wonderful idea and hope your son has an amazing time at College 🥂
+Answer: I would love to learn from you the basics of Indian cooking-it’s so important we remember how Indian cooking has developed and changed our",0.9711,Positive
+Jasmine Shah,Missed you since long,2024-09-04T16:19:27.000Z,82.0,312,Jasmine Shah - Missed you since lon,ARCHANAS-FOOD,Missed you since long,-0.296,Negative
+Archana Doshi,Tejal Mehta Daroowalla thank you ð,2024-09-05T00:57:52.000Z,82.0,312,Archana Doshi - Tejal Mehta Daroowal,ARCHANAS-FOOD,Tejal Mehta Daroowalla thank you ,0.3612,Positive
+Archana's Kitchen,Reena Khurana ð,2024-09-05T07:59:36.000Z,82.0,312,Archana's Kitchen - Reena Khurana ð,ARCHANAS-FOOD,Reena Khurana ,0.0,Neutral
+Arpita Gala,Hw bout ur healthy cakes n brownie mixesâ,2025-04-23T13:51:36.000Z,41.0,200,Arpita Gala - Hw bout ur healthy c,ARCHANAS-FOOD,Hw bout ur healthy cakes n brownie mixes,0.4019,Positive
+Raji Parameswaran,Welcome back! Missed you! (And was great meeting you in Bangalore!),2025-04-21T13:55:36.000Z,41.0,200,Raji Parameswaran - Welcome back! Missed,ARCHANAS-FOOD,Welcome back! Missed you! (And was great meeting you in Bangalore!),0.7767,Positive
+Nirmalababu,Welcome back Madam ððº,2025-04-22T13:45:41.000Z,41.0,200,Nirmalababu - Welcome back Madam ð,ARCHANAS-FOOD,Welcome back Madam 🙂🌺,0.4588,Positive
+Reshabh Anand,Welcome back mam!,2025-04-21T13:31:58.000Z,41.0,200,Reshabh Anand - Welcome back mam!,ARCHANAS-FOOD,Welcome back mam!,0.5093,Positive
+Shyamala Nayak,Welcome back,2025-04-21T16:07:02.000Z,41.0,200,Shyamala Nayak - Welcome back,ARCHANAS-FOOD,Welcome back,0.4588,Positive
+Rubi Dey,ª¾ ¿¯¼Ç ¦¾  °¾¨Í¨¾ °Ç ¾¬ <9<9,2025-04-21T10:49:43.000Z,41.0,200,Rubi Dey - à¦ªà¦¾à¦ à¦¿à¦¯à¦¼à§,ARCHANAS-FOOD,   ͨ   <9<9,0.0,Neutral
+Rajalakshmi Shankarakumar,"Welcome
+Happy to see you back",2025-04-21T15:20:39.000Z,41.0,200,"Rajalakshmi Shankarakumar - Welcome
+Happy to see",ARCHANAS-FOOD,"Welcome
+Happy to see you back",0.7717,Positive
+Meena Duttagupta,Good to see you back ð,2025-04-22T04:33:45.000Z,41.0,200,Meena Duttagupta - Good to see you back,ARCHANAS-FOOD,Good to see you back ,0.4404,Positive
+Sandhya Nemali,Welcome back!,2025-04-21T11:30:19.000Z,41.0,200,Sandhya Nemali - Welcome back!,ARCHANAS-FOOD,Welcome back!,0.5093,Positive
+Archana Doshi,Soumya Shankar thank you â,2024-05-08T14:35:40.000Z,61.0,212,Archana Doshi - Soumya Shankar thank,ARCHANAS-FOOD,Soumya Shankar thank you ,0.3612,Positive
+Archana Doshi,Srividya Murali thank you,2024-05-08T14:35:47.000Z,61.0,212,Archana Doshi - Srividya Murali than,ARCHANAS-FOOD,Srividya Murali thank you,0.3612,Positive
+Archana's Kitchen,Sarojam Varma thank you,2024-09-13T05:58:50.000Z,7.0,40,Archana's Kitchen - Sarojam Varma thank ,ARCHANAS-FOOD,Sarojam Varma thank you,0.3612,Positive
+Archana's Kitchen,Suguna Muthuswamy thank you,2024-09-04T17:19:10.000Z,82.0,312,Archana's Kitchen - Suguna Muthuswamy th,ARCHANAS-FOOD,Suguna Muthuswamy thank you,0.3612,Positive
+Archana Doshi,Sharmila Bhattar Naufel thank you,2024-05-08T14:35:51.000Z,61.0,212,Archana Doshi - Sharmila Bhattar Nau,ARCHANAS-FOOD,Sharmila Bhattar Naufel thank you,0.3612,Positive
+Archana Doshi,Georgina Garrett E Fernandes thank you ð,2024-09-04T18:41:37.000Z,82.0,312,Archana Doshi - Georgina Garrett E F,ARCHANAS-FOOD,Georgina Garrett E Fernandes thank you ,0.3612,Positive
+Georgina Garrett E Fernandes,Archana Doshi you're most Welcome,2024-09-04T19:04:17.000Z,82.0,312,Georgina Garrett E Fernandes - Archana Doshi you're,ARCHANAS-FOOD,Archana Doshi you're most Welcome,0.5095,Positive
+Archana's Kitchen,"Charu Jain thank you, I am looking forward to be back as well",2024-09-04T17:19:06.000Z,82.0,312,Archana's Kitchen - Charu Jain thank you,ARCHANAS-FOOD,"Charu Jain thank you, I am looking forward to be back as well",0.5574,Positive
+Archana Doshi,Gordhan Koshiya thank you,2024-09-04T18:41:23.000Z,82.0,312,Archana Doshi - Gordhan Koshiya than,ARCHANAS-FOOD,Gordhan Koshiya thank you,0.3612,Positive
+Archana Doshi,Tanuja Basavaraj thank you and best wishes to your son too,2024-09-04T18:40:47.000Z,82.0,312,Archana Doshi - Tanuja Basavaraj tha,ARCHANAS-FOOD,Tanuja Basavaraj thank you and best wishes to your son too,0.8074,Positive
+Archana's Kitchen,Renuka Ernst ð,2024-09-04T16:57:04.000Z,82.0,312,Archana's Kitchen - Renuka Ernst ð,ARCHANAS-FOOD,Renuka Ernst ,0.0,Neutral
+Archana's Kitchen,Renuka Ernst thank you,2024-09-04T16:57:13.000Z,82.0,312,Archana's Kitchen - Renuka Ernst thank y,ARCHANAS-FOOD,Renuka Ernst thank you,0.3612,Positive
+Archana's Kitchen,Renuka Ernst will plan out the cooking classes,2024-09-05T00:59:10.000Z,82.0,312,Archana's Kitchen - Renuka Ernst will pl,ARCHANAS-FOOD,Renuka Ernst will plan out the cooking classes,0.0,Neutral
+Archana's Kitchen,Jasmine Shah i remember you from the online cooking days during covid times :),2024-09-04T17:19:56.000Z,82.0,312,Archana's Kitchen - Jasmine Shah i remem,ARCHANAS-FOOD,Jasmine Shah i remember you from the online cooking days during covid times :),0.4588,Positive
+Archana Doshi,Niraj Kataria yes/ watched two days of round three ð,2024-09-04T18:41:15.000Z,82.0,312,Archana Doshi - Niraj Kataria yes/ w,ARCHANAS-FOOD,Niraj Kataria yes/ watched two days of round three ,0.0,Neutral
+Archana's Kitchen,Suguna Muthuswamy coming soon,2024-09-04T16:56:44.000Z,82.0,312,Archana's Kitchen - Suguna Muthuswamy co,ARCHANAS-FOOD,Suguna Muthuswamy coming soon,0.0,Neutral
+Archana Doshi,Arathi Kundu thank â¤ï¸,2024-05-08T14:35:16.000Z,61.0,212,Archana Doshi - Arathi Kundu thank â,ARCHANAS-FOOD,Arathi Kundu thank ❤,0.3612,Positive
+Jasmine Shah,>Ñ,,,,,,>,0.0,Neutral
+<s,2024-09-04T16:19:50.000Z,82,312.0,Jasmine Shah - ð§â,ARCHANAS-FOOD,,2024-09-04T16:19:50.000Z,0.0,Neutral
+Rizwana A. Udawala,Best of wishes to your son. â,2024-09-04T16:16:41.000Z,82.0,312,Rizwana A. Udawala - Best of wishes to yo,ARCHANAS-FOOD,Best of wishes to your son. ,0.7003,Positive
+Aparna Swamy,Great.   Would love to see recipe for handvo,2024-09-04T15:58:05.000Z,82.0,312,Aparna Swamy - Great.   Would love ,ARCHANAS-FOOD,Great.   Would love to see recipe for handvo,0.8519,Positive
+Renu Lal Narasimham,Good to have you back Archana,2024-09-04T15:34:27.000Z,82.0,312,Renu Lal Narasimham - Good to have you bac,ARCHANAS-FOOD,Good to have you back Archana,0.4404,Positive
+Raji Parameswaran,I would love a series on tasty meal planning for those watching their sugars and carbs - pre-diabetes and diabetes patients.,2025-04-21T13:56:51.000Z,41.0,200,Raji Parameswaran - I would love a serie,ARCHANAS-FOOD,I would love a series on tasty meal planning for those watching their sugars and carbs - pre-diabetes and diabetes patients.,0.6369,Positive
+Archana's Kitchen,Ruchi Srivastava Purdue for computer science ð,2024-09-04T17:18:44.000Z,82.0,312,Archana's Kitchen - Ruchi Srivastava Pur,ARCHANAS-FOOD,Ruchi Srivastava Purdue for computer science ,0.0,Neutral
+Archana Doshi,Ruchi Srivastava Purdue,2024-09-18T08:21:42.000Z,82.0,312,Archana Doshi - Ruchi Srivastava Pur,ARCHANAS-FOOD,Ruchi Srivastava Purdue,0.0,Neutral
+Radhika Udayakumar,Great to see u mam,2025-04-21T11:19:12.000Z,41.0,200,Radhika Udayakumar - Great to see u mam,ARCHANAS-FOOD,Great to see u mam,0.6249,Positive
+Neha Srivastava Bhat,Lovely â¤ï¸  best wi,2025-04-21T10:53:44.000Z,41.0,200,Neha Srivastava Bhat - Lovely â¤ï¸  best ,ARCHANAS-FOOD,Lovely ❤️  best wi,0.8402,Positive
+Manjunath Manju,Welcome back now how are you madam,2025-04-21T16:09:40.000Z,41.0,200,Manjunath Manju - Welcome back now how,ARCHANAS-FOOD,Welcome back now how are you madam,0.4588,Positive
+Kinnari Sharma,Welcome back Archanað,2025-04-21T12:13:53.000Z,41.0,200,Kinnari Sharma - Welcome back Archana,ARCHANAS-FOOD,Welcome back Archana,0.4588,Positive
+Pradeepa S,Happy to see u back mam,2025-04-21T11:01:21.000Z,41.0,200,Pradeepa S - Happy to see u back ,ARCHANAS-FOOD,Happy to see u back mam,0.5719,Positive
+Exclusive home made degine,Masallah Happy to see ur smile ðð,2025-09-10T12:54:15.000Z,41.0,200,Exclusive home made degine - Masallah Happy to se,ARCHANAS-FOOD,Masallah Happy to see ur smile 😊😊,0.7351,Positive
+Archana's Kitchen,Renu Lal Narasimham ð,2024-09-04T15:46:48.000Z,82.0,312,Archana's Kitchen - Renu Lal Narasimham ,ARCHANAS-FOOD,Renu Lal Narasimham ,0.0,Neutral
+Archana's Kitchen,"Aparna Swamy https://www.archanaskitchen.com/gujarati-tawa-handvo-recipe-with-sweet-corn
+
+Here you go",2024-09-04T16:30:14.000Z,82.0,312,Archana's Kitchen - Aparna Swamy https:/,ARCHANAS-FOOD,"Aparna Swamy https://www.archanaskitchen.com/gujarati-tawa-handvo-recipe-with-sweet-corn
+
+Here you go",0.0,Neutral
+Archana's Kitchen,Rizwana A. Udawala thank you,2024-09-04T17:19:37.000Z,82.0,312,Archana's Kitchen - Rizwana A. Udawala t,ARCHANAS-FOOD,Rizwana A. Udawala thank you,0.3612,Positive
+Iftekhar,Oo really? We miss u alot,2024-09-04T15:32:54.000Z,82.0,312,Iftekhar - Oo really? We miss u,ARCHANAS-FOOD,Oo really? We miss u alot,-0.2212,Negative
+Dale Pereira,Welcome.back.archana,2024-09-04T15:31:55.000Z,82.0,312,Dale Pereira - Welcome.back.archana,ARCHANAS-FOOD,Welcome.back.archana,0.0,Neutral
+Archana Ranjan,New hair style suits uâ,2024-09-04T15:20:56.000Z,82.0,312,Archana Ranjan - New hair style suits,ARCHANAS-FOOD,New hair style suits u,0.0,Neutral
+Archana Doshi,Monica Minhas https://amzn.to/4bmbTIL,2024-05-08T14:24:50.000Z,61.0,212,Archana Doshi - Monica Minhas https:,ARCHANAS-FOOD,Monica Minhas https://amzn.to/4bmbTIL,0.0,Neutral
+Archana Doshi,Monica Minhas thank you ð,2024-05-08T14:35:07.000Z,61.0,212,Archana Doshi - Monica Minhas thank ,ARCHANAS-FOOD,Monica Minhas thank you ,0.3612,Positive
+Archana Doshi,Mona Kamdar thank you ð,2024-05-08T14:34:51.000Z,61.0,212,Archana Doshi - Mona Kamdar thank yo,ARCHANAS-FOOD,Mona Kamdar thank you ,0.3612,Positive
+Archana's Kitchen,=,,,,,,=,0.0,Neutral
+,2024-09-04T15:46:42.000Z,82,312.0,Archana's Kitchen - ð,ARCHANAS-FOOD,,2024-09-04T15:46:42.000Z,0.0,Neutral
+Archana's Kitchen,Iftekhar ð,2024-09-05T00:59:29.000Z,82.0,312,Archana's Kitchen - Iftekhar ð,ARCHANAS-FOOD,Iftekhar ,0.0,Neutral
+Archana's Kitchen,Yamini Kohli ð,2024-09-05T00:59:50.000Z,82.0,312,Archana's Kitchen - Yamini Kohli ð,ARCHANAS-FOOD,Yamini Kohli ,0.0,Neutral
+Archana Doshi,Archana Ranjan thank you :),2024-09-04T15:27:26.000Z,82.0,312,Archana Doshi - Archana Ranjan thank,ARCHANAS-FOOD,Archana Ranjan thank you :),0.6705,Positive
+Ragini Singh,Written  recipe please,2024-03-13T09:05:07.000Z,2.0,28,Ragini Singh - Written  recipe plea,ARCHANAS-FOOD,Written  recipe please,0.3182,Positive
+Archana Doshi,Garima Sharma Anand thank you,2024-05-08T14:36:02.000Z,61.0,212,Archana Doshi - Garima Sharma Anand ,ARCHANAS-FOOD,Garima Sharma Anand thank you,0.3612,Positive
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
+,,,,,,,,0.0,Neutral
